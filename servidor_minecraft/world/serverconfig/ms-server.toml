@@ -1,0 +1,20 @@
+
+#Server Settings
+[general]
+	#Allow crop harvesting by right clicking
+	"Right Click to Harvest" = true
+	#Allow stronger mobs to spawn
+	"Spawn Stronger Mobs" = true
+	#Allow double doors to open when right clicked
+	"Double Door Interaction" = true
+	#Allow the spawning of Ice Slimes
+	"Ice Slime Spawning" = true
+	#Allow the spawning of Nether Spiders
+	"Nether Spider Spawning" = true
+	#Allow the spawning of Butterflies
+	"Butterfly Spawning" = true
+	#Allow the spawning of Nether Chickens
+	"Nether Chicken Spawning" = true
+	#Allow the spawning of Brown Bears
+	"Brown Bear Spawning" = true
+
