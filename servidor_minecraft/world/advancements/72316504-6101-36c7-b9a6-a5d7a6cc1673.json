@@ -47,5 +47,635 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-29 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/grey_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/pork_stew": {
+    "criteria": {
+      "potato": "2025-01-29 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/black_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/rabbit_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/brown_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-29 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-29 15:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-29 15:31:23 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/egg_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/pink_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/blue_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/light_blue_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-29 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/create_gem/trio": {
+    "criteria": {
+      "has_emerald": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/red_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/green_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/egg_smelt": {
+    "criteria": {
+      "is_food": "2025-01-29 15:33:25 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/light_gray_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/yellow_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-29 15:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-29 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/blue_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-29 15:31:23 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/emerald_horse_armor": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/yellow_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/bread_slice": {
+    "criteria": {
+      "item_1": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-29 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-29 15:30:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/orange_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/burger": {
+    "criteria": {
+      "has_bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/emerald_bread": {
+    "criteria": {
+      "has_resource": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-29 15:30:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-29 15:30:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/magenta_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/beef_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/purple_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-29 15:31:23 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/diamond_bread": {
+    "criteria": {
+      "has_bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/egg_smoking": {
+    "criteria": {
+      "is_food": "2025-01-29 15:33:25 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/beef_stew": {
+    "criteria": {
+      "potato": "2025-01-29 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/pink_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-29 15:31:23 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/white_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-29 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/cod_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/cyan_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/nugget/emerald_shard": {
+    "criteria": {
+      "item": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/green_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/lime_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/tools/tool/emerald_hoe": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2025-01-29 15:31:29 +0000"
+    },
+    "done": false
+  },
+  "ms:recipes/misc/lantern/gray_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-29 15:31:23 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/magenta_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/pork_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/lime_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/tool/emerald_sword": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/golden_potato": {
+    "criteria": {
+      "has_bread": "2025-01-29 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/tools/tool/emerald_axe": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/emerald_chest": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-29 15:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-29 15:30:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/materials/book": {
+    "criteria": {
+      "has_leather": "2025-01-29 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-29 15:30:07 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/emerald_boots": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/cyan_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/llama_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/chicken_stew": {
+    "criteria": {
+      "potato": "2025-01-29 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/tools/tool/emerald_shovel": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-29 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/emerald_helmet": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/purple_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-29 15:29:32 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/orange_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/cheese_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/red_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-29 15:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-29 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/salmon_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/egg_campfire": {
+    "criteria": {
+      "is_food": "2025-01-29 15:33:25 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/tools/tool/emerald_pickaxe": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-29 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-29 15:30:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/golden_bread": {
+    "criteria": {
+      "has_bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/honey_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/caramel_apple": {
+    "criteria": {
+      "has_apple": "2025-01-29 15:32:08 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/emerald_legs": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-29 15:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-29 15:31:23 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/lantern/brown_paper_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-29 15:31:23 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/light_grey_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/black_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/white_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/tropical_fish_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/chicken_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/leather_wolf_armor": {
+    "criteria": {
+      "material": "2025-01-29 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/iron_bread": {
+    "criteria": {
+      "has_bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/fence/emeraldfence": {
+    "criteria": {
+      "material": "2025-01-29 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-29 15:30:07 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/torch/light_blue_from_dye": {
+    "criteria": {
+      "torch": "2025-01-29 15:30:45 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/mutton_sandwich": {
+    "criteria": {
+      "bread": "2025-01-29 15:32:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
