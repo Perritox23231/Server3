@@ -31,6 +31,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-01-29 16:33:01 +0000",
       "minecraft:plains": "2025-01-29 16:03:22 +0000"
     },
     "done": false
@@ -149,9 +150,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:26:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-29 16:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-29 16:33:07 +0000"
     },
     "done": true
   },
@@ -164,6 +183,12 @@
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dyed/white_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
     },
     "done": true
   },
@@ -185,9 +210,45 @@
     },
     "done": true
   },
+  "ms:recipes/building_blocks/dyed/black_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dyed/grey_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/vertical/cobblestone": {
+    "criteria": {
+      "cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-29 16:25:03 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/food/food/pork_stew": {
     "criteria": {
       "potato": "2025-01-29 16:17:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/stair/wool_black": {
+    "criteria": {
+      "material": "2025-01-29 16:28:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/coal_boots": {
+    "criteria": {
+      "material": "2025-01-29 16:32:10 +0000"
     },
     "done": true
   },
@@ -239,6 +300,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:26:35 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/materials/charcoal_dust": {
+    "criteria": {
+      "item_1": "2025-01-29 16:34:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-29 16:18:27 +0000"
@@ -248,6 +321,18 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-29 16:18:27 +0000"
+    },
+    "done": true
+  },
+  "ms:ore/new_resources": {
+    "criteria": {
+      "tin": "2025-01-29 16:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-29 16:24:02 +0000"
     },
     "done": true
   },
@@ -269,6 +354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-29 16:37:55 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/crafting/tigerwood_crafting_table": {
     "criteria": {
       "has_crafting_table": "2025-01-29 16:19:47 +0000"
@@ -278,6 +369,24 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-29 16:17:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:26:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-01-29 16:21:55 +0000"
     },
     "done": true
   },
@@ -293,9 +402,33 @@
     },
     "done": true
   },
+  "ms:recipes/tools/tool/flint_and_blaze": {
+    "criteria": {
+      "has_flint": "2025-01-29 16:23:35 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/coal_chest": {
+    "criteria": {
+      "material": "2025-01-29 16:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-29 16:19:43 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/tools/tool/flint_pickaxe": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
     },
     "done": true
   },
@@ -335,6 +468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
@@ -353,6 +492,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-29 16:33:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-29 16:26:42 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dyed/green_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/resources/flint_block": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-29 16:18:27 +0000"
@@ -365,9 +528,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/spruce_sign_woodcutting": {
     "criteria": {
       "spruce_planks": "2025-01-29 16:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-29 16:37:55 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/flint_legs": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
     },
     "done": true
   },
@@ -377,15 +558,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-29 16:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/crafting/mangrove_butter_churn": {
     "criteria": {
       "has_rod": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dyed/light_grey_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
     },
     "done": true
   },
@@ -398,6 +597,24 @@
   "ms:recipes/redstone/oak_button_woodcutting": {
     "criteria": {
       "oak_planks": "2025-01-29 16:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-29 16:37:49 +0000"
     },
     "done": true
   },
@@ -414,6 +631,12 @@
     },
     "done": true
   },
+  "ms:recipes/building_blocks/dyed/light_blue_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
@@ -423,6 +646,12 @@
   "securitycraft:recipes/misc/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
     },
     "done": true
   },
@@ -444,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
@@ -462,9 +697,27 @@
     },
     "done": true
   },
+  "ms:recipes/building_blocks/dyed/blue_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-01-29 16:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
     },
     "done": true
   },
@@ -480,6 +733,12 @@
     },
     "done": true
   },
+  "ms:recipes/combat/armor/flint_chest": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/barrel/lime_barrel": {
     "criteria": {
       "plank": "2025-01-29 16:18:27 +0000"
@@ -492,15 +751,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/barrel/magenta_barrel": {
     "criteria": {
       "plank": "2025-01-29 16:18:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-01-29 16:17:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/coal_helmet": {
+    "criteria": {
+      "material": "2025-01-29 16:32:10 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dyed/red_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
     },
     "done": true
   },
@@ -528,6 +817,12 @@
     },
     "done": true
   },
+  "ms:recipes/building_blocks/dyed/orange_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/seat/spruce_chair_woodcutting": {
     "criteria": {
       "spruce_planks": "2025-01-29 16:19:43 +0000"
@@ -540,15 +835,33 @@
     },
     "done": true
   },
+  "ms:recipes/combat/armor/coal_horse_armor": {
+    "criteria": {
+      "material": "2025-01-29 16:32:10 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/crafting/birch_crafting_table": {
     "criteria": {
       "has_crafting_table": "2025-01-29 16:19:47 +0000"
     },
     "done": true
   },
+  "ms:ore/overworld_ore_all": {
+    "criteria": {
+      "tin": "2025-01-29 16:21:37 +0000"
+    },
+    "done": false
+  },
   "ms:recipes/food/food/emerald_bread": {
     "criteria": {
       "has_bread": "2025-01-29 16:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
     },
     "done": true
   },
@@ -630,6 +943,12 @@
     },
     "done": true
   },
+  "ms:recipes/building_blocks/vertical/cobblestone_stonecutting": {
+    "criteria": {
+      "cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/building_blocks/dyed/grey_wooden_planks": {
     "criteria": {
       "has_planks": "2025-01-29 16:18:27 +0000"
@@ -642,9 +961,21 @@
     },
     "done": true
   },
+  "ms:recipes/building_blocks/stripped_dark_oak_log_woodcutting": {
+    "criteria": {
+      "dark_oak_log": "2025-01-29 16:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-01-29 16:17:50 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/gem/raw_tin_blast": {
+    "criteria": {
+      "ore": "2025-01-29 16:21:37 +0000"
     },
     "done": true
   },
@@ -654,9 +985,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-29 16:33:07 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/building_blocks/vertical/oak_woodcutting": {
     "criteria": {
       "oak_planks": "2025-01-29 16:18:27 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/tools/tool/stone_shears": {
+    "criteria": {
+      "material": "2025-01-29 16:20:02 +0000"
     },
     "done": true
   },
@@ -678,6 +1021,18 @@
     },
     "done": true
   },
+  "ms:recipes/building_blocks/dyed/lime_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-29 16:25:03 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/misc/bowl_woodcutting": {
     "criteria": {
       "item": "2025-01-29 16:18:27 +0000"
@@ -690,6 +1045,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-29 16:23:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-29 16:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
@@ -699,6 +1066,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-29 16:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-29 16:20:28 +0000"
     },
     "done": true
   },
@@ -750,6 +1123,18 @@
     },
     "done": true
   },
+  "ms:recipes/combat/armor/flint_boots": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-01-29 16:16:54 +0000"
@@ -768,6 +1153,12 @@
     },
     "done": true
   },
+  "ms:recipes/combat/armor/flint_helmet": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-01-29 16:18:09 +0000"
@@ -777,6 +1168,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-29 16:18:06 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/tools/tool/flint_axe": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
     },
     "done": true
   },
@@ -822,9 +1219,21 @@
     },
     "done": true
   },
+  "ms:recipes/misc/brick_kiln": {
+    "criteria": {
+      "has": "2025-01-29 16:37:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-29 16:17:54 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/nugget/coal_fragment": {
+    "criteria": {
+      "item": "2025-01-29 16:32:10 +0000"
     },
     "done": true
   },
@@ -852,6 +1261,12 @@
     },
     "done": true
   },
+  "ms:recipes/decorations/nature/apple_sapling": {
+    "criteria": {
+      "has_sapling": "2025-01-29 16:21:32 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/tools/misc/handheld_table": {
     "criteria": {
       "has_table": "2025-01-29 16:19:47 +0000"
@@ -861,6 +1276,12 @@
   "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-29 16:23:35 +0000"
     },
     "done": true
   },
@@ -888,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/barrel/light_blue_barrel": {
     "criteria": {
       "plank": "2025-01-29 16:18:27 +0000"
@@ -897,6 +1324,12 @@
   "ms:recipes/building_blocks/dyed/orange_wooden_planks": {
     "criteria": {
       "has_planks": "2025-01-29 16:18:27 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/tool/flint_sword": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
     },
     "done": true
   },
@@ -918,9 +1351,51 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/resources/raw_tin_block": {
+    "criteria": {
+      "material": "2025-01-29 16:21:37 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/building_blocks/spruce_stairs_woodcutting": {
     "criteria": {
       "spruce_planks": "2025-01-29 16:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-29 16:28:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-01-29 16:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
     },
     "done": true
   },
@@ -936,15 +1411,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/crafting/woodcutter": {
     "criteria": {
       "has_stone": "2025-01-29 16:19:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/stone_kiln": {
+    "criteria": {
+      "has": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/building_blocks/dyed/light_grey_wooden_planks": {
     "criteria": {
       "has_planks": "2025-01-29 16:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
     },
     "done": true
   },
@@ -957,6 +1456,24 @@
   "ms:recipes/building_blocks/spruce_planks_woodcutting": {
     "criteria": {
       "item": "2025-01-29 16:19:14 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/materials/book": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:26:35 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dyed/pink_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dyed/purple_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
     },
     "done": true
   },
@@ -1008,6 +1525,36 @@
     },
     "done": true
   },
+  "ms:recipes/building_blocks/slab/wool_black": {
+    "criteria": {
+      "material": "2025-01-29 16:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-29 16:28:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dark_oak_planks_woodcutting": {
+    "criteria": {
+      "item": "2025-01-29 16:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-29 16:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/tools/tool/wooden_hammer": {
     "criteria": {
       "material": "2025-01-29 16:19:14 +0000"
@@ -1026,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-01-29 16:18:09 +0000"
@@ -1035,6 +1588,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/wall/wool_black": {
+    "criteria": {
+      "material": "2025-01-29 16:28:04 +0000"
     },
     "done": true
   },
@@ -1050,15 +1609,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:26:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
     },
     "done": true
   },
+  "ms:recipes/decorations/fence/coalfence": {
+    "criteria": {
+      "material": "2025-01-29 16:32:10 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/building_blocks/oak_stairs_woodcutting": {
     "criteria": {
       "oak_planks": "2025-01-29 16:18:27 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/fence/flintfence": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
     },
     "done": true
   },
@@ -1071,6 +1648,18 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/tools/tool/flint_shears": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/food/salmon_sushi": {
+    "criteria": {
+      "has_center": "2025-01-29 16:33:07 +0000"
     },
     "done": true
   },
@@ -1092,9 +1681,21 @@
     },
     "done": true
   },
+  "ms:recipes/combat/armor/coal_legs": {
+    "criteria": {
+      "material": "2025-01-29 16:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
     },
     "done": true
   },
@@ -1104,9 +1705,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/building_blocks/dyed/yellow_wooden_planks": {
     "criteria": {
       "has_planks": "2025-01-29 16:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-29 16:26:42 +0000"
     },
     "done": true
   },
@@ -1116,15 +1729,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/building_blocks/vertical/spruce_woodcutting": {
     "criteria": {
       "spruce_planks": "2025-01-29 16:19:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:26:35 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/seat/spruce_chair": {
     "criteria": {
       "has_plank": "2025-01-29 16:19:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-29 16:33:07 +0000"
     },
     "done": true
   },
@@ -1152,9 +1789,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
     },
     "done": true
   },
@@ -1173,6 +1822,24 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-29 16:17:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-01-29 16:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-29 16:33:07 +0000"
     },
     "done": true
   },
@@ -1254,9 +1921,39 @@
     },
     "done": true
   },
+  "ms:recipes/tools/tool/flint_hoe": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-29 16:28:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/tools/tool/flint_shovel": {
+    "criteria": {
+      "material": "2025-01-29 16:23:35 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/crafting/spruce_butter_churn": {
     "criteria": {
       "has_rod": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dyed/magenta_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dyed/yellow_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
     },
     "done": true
   },
@@ -1275,6 +1972,18 @@
   "ms:recipes/building_blocks/dyed/red_wooden_planks": {
     "criteria": {
       "has_planks": "2025-01-29 16:18:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-01-29 16:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-29 16:32:10 +0000"
     },
     "done": true
   },
@@ -1326,9 +2035,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-29 16:20:28 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/barrel/black_barrel": {
     "criteria": {
       "plank": "2025-01-29 16:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-29 16:21:54 +0000"
     },
     "done": true
   },
@@ -1347,6 +2068,12 @@
   "ms:recipes/tools/tool/wooden_excavator": {
     "criteria": {
       "material": "2025-01-29 16:19:14 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/gem/raw_tin_smelt": {
+    "criteria": {
+      "ore": "2025-01-29 16:21:37 +0000"
     },
     "done": true
   },
@@ -1392,6 +2119,24 @@
     },
     "done": true
   },
+  "ms:recipes/building_blocks/vertical/wool_black": {
+    "criteria": {
+      "material": "2025-01-29 16:28:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/combat/armor/leather_wolf_armor": {
+    "criteria": {
+      "material": "2025-01-29 16:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-29 16:21:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-01-29 16:16:54 +0000"
@@ -1422,6 +2167,12 @@
     },
     "done": true
   },
+  "ms:ore/all_resources": {
+    "criteria": {
+      "tin": "2025-01-29 16:21:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-29 16:17:54 +0000"
@@ -1446,9 +2197,27 @@
     },
     "done": true
   },
+  "ms:recipes/building_blocks/dyed/cyan_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/dyed/brown_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
     },
     "done": true
   },
@@ -1464,9 +2233,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-01-29 16:34:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-29 16:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-01-29 16:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-29 16:20:02 +0000"
     },
     "done": true
   },
@@ -1509,6 +2308,18 @@
   "ms:recipes/food/food/mutton_sandwich": {
     "criteria": {
       "bread": "2025-01-29 16:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-29 16:26:42 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/pillar/wool_black": {
+    "criteria": {
+      "material": "2025-01-29 16:28:04 +0000"
     },
     "done": true
   },
