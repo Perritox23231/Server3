@@ -385,6 +385,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-29 17:53:21 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/building_blocks/wall/marble_brick_stonecutting_from_regular": {
     "criteria": {
       "stone/marble": "2025-01-29 17:12:16 +0000"
@@ -781,6 +787,12 @@
     },
     "done": true
   },
+  "ms:recipes/food/egg_smelt": {
+    "criteria": {
+      "is_food": "2025-01-29 17:53:21 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/decorations/spruce_fence_woodcutting": {
     "criteria": {
       "spruce_planks": "2025-01-29 16:19:43 +0000"
@@ -1142,6 +1154,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-29 17:45:03 +0000"
+    },
+    "done": true
+  },
   "ms:recipes/building_blocks/wall/calcite_wall": {
     "criteria": {
       "calcite": "2025-01-29 16:43:14 +0000"
@@ -1451,6 +1469,12 @@
   "ms:recipes/food/food/diamond_bread": {
     "criteria": {
       "has_bread": "2025-01-29 16:18:01 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/egg_smoking": {
+    "criteria": {
+      "is_food": "2025-01-29 17:53:21 +0000"
     },
     "done": true
   },
@@ -2250,6 +2274,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-01-29 17:10:11 +0000",
+      "minecraft:zombie": "2025-01-29 17:44:49 +0000",
       "minecraft:zombie_villager": "2025-01-29 16:46:49 +0000"
     },
     "done": false
@@ -2770,6 +2795,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-29 17:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-29 17:53:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-29 17:03:17 +0000"
@@ -2845,6 +2882,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-29 17:18:04 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/food/egg_campfire": {
+    "criteria": {
+      "is_food": "2025-01-29 17:53:21 +0000"
     },
     "done": true
   },
@@ -3577,6 +3620,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-01-29 16:26:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-29 17:53:21 +0000"
     },
     "done": true
   },

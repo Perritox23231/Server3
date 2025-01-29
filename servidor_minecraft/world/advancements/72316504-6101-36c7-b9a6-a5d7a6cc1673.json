@@ -3651,7 +3651,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-29 17:16:08 +0000"
+      "minecraft:skeleton": "2025-01-29 17:16:08 +0000",
+      "minecraft:zombie": "2025-01-29 17:44:50 +0000"
     },
     "done": false
   },
@@ -4339,75 +4340,21 @@
     },
     "done": true
   },
-  "ms:recipes/decorations/sign/tigerwood_hanging_sign": {
+  "ms:recipes/building_blocks/gem/raw_tin_blast": {
     "criteria": {
-      "has_chain": "2025-01-29 17:37:00 +0000"
+      "ore": "2025-01-29 17:22:06 +0000"
     },
     "done": true
   },
-  "ms:recipes/decorations/lantern/lime_from_dye": {
+  "ms:recipes/building_blocks/resources/raw_tin_block": {
     "criteria": {
-      "lantern": "2025-01-29 17:36:57 +0000"
+      "material": "2025-01-29 17:22:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
+  "ms:recipes/building_blocks/gem/raw_tin_smelt": {
     "criteria": {
-      "has_diamond": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/decorations/lantern/cyan_from_dye": {
-    "criteria": {
-      "lantern": "2025-01-29 17:36:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/decorations/lantern/magenta_from_dye": {
-    "criteria": {
-      "lantern": "2025-01-29 17:36:57 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/misc/nugget/diamond_shard": {
-    "criteria": {
-      "item": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/tools/tool/diamond_shears": {
-    "criteria": {
-      "material": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-29 17:38:12 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/decorations/lantern/orange_from_dye": {
-    "criteria": {
-      "lantern": "2025-01-29 17:36:57 +0000"
+      "ore": "2025-01-29 17:22:06 +0000"
     },
     "done": true
   },
@@ -4417,21 +4364,51 @@
     },
     "done": true
   },
-  "ms:recipes/decorations/sign/willow_hanging_sign": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_chain": "2025-01-29 17:37:00 +0000"
+      "has_log": "2025-01-29 17:32:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
+  "ms:recipes/building_blocks/birch_planks_woodcutting": {
     "criteria": {
-      "has_diamond": "2025-01-29 17:37:31 +0000"
+      "item": "2025-01-29 17:32:34 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/building_blocks/stripped_birch_log_woodcutting": {
+    "criteria": {
+      "birch_log": "2025-01-29 17:32:34 +0000"
     },
     "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-01-29 17:36:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/lime_from_dye": {
+    "criteria": {
+      "lantern": "2025-01-29 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/cyan_from_dye": {
+    "criteria": {
+      "lantern": "2025-01-29 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/magenta_from_dye": {
+    "criteria": {
+      "lantern": "2025-01-29 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/orange_from_dye": {
+    "criteria": {
+      "lantern": "2025-01-29 17:36:57 +0000"
     },
     "done": true
   },
@@ -4444,24 +4421,6 @@
   "ms:recipes/decorations/lantern/pink_from_dye": {
     "criteria": {
       "lantern": "2025-01-29 17:36:57 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/decorations/sign/glowood_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-01-29 17:37:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/building_blocks/gem/raw_tin_blast": {
-    "criteria": {
-      "ore": "2025-01-29 17:22:06 +0000"
     },
     "done": true
   },
@@ -4489,36 +4448,6 @@
     },
     "done": true
   },
-  "ms:recipes/decorations/fence/diamondfence": {
-    "criteria": {
-      "material": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/building_blocks/resources/raw_tin_block": {
-    "criteria": {
-      "material": "2025-01-29 17:22:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-01-29 17:32:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
   "ms:recipes/decorations/lantern/light_blue_from_dye": {
     "criteria": {
       "lantern": "2025-01-29 17:36:57 +0000"
@@ -4531,33 +4460,141 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-01-29 17:37:31 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/building_blocks/birch_planks_woodcutting": {
-    "criteria": {
-      "item": "2025-01-29 17:32:34 +0000"
-    },
-    "done": true
-  },
   "ms:recipes/decorations/lantern/white_from_dye": {
     "criteria": {
       "lantern": "2025-01-29 17:36:57 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "ms:recipes/decorations/lantern/green_from_dye": {
     "criteria": {
-      "diamond": "2025-01-29 17:37:31 +0000"
+      "lantern": "2025-01-29 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/red_from_dye": {
+    "criteria": {
+      "lantern": "2025-01-29 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/purple_from_dye": {
+    "criteria": {
+      "lantern": "2025-01-29 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/sign/tigerwood_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-29 17:37:00 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/sign/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-29 17:37:00 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/sign/glowood_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-29 17:37:00 +0000"
     },
     "done": true
   },
   "ms:recipes/decorations/sign/silverbell_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-29 17:37:00 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/sign/hellwood_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-29 17:37:00 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/sign/maple_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-29 17:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/nugget/diamond_shard": {
+    "criteria": {
+      "item": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/tools/tool/diamond_shears": {
+    "criteria": {
+      "material": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/fence/diamondfence": {
+    "criteria": {
+      "material": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-29 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-29 17:37:31 +0000"
     },
     "done": true
   },
@@ -4579,51 +4616,21 @@
     },
     "done": true
   },
-  "ms:recipes/decorations/lantern/green_from_dye": {
-    "criteria": {
-      "lantern": "2025-01-29 17:36:57 +0000"
-    },
-    "done": true
-  },
   "ms:recipes/combat/tool/diamond_bow": {
     "criteria": {
       "material": "2025-01-29 17:37:31 +0000"
     },
     "done": true
   },
-  "ms:recipes/decorations/lantern/red_from_dye": {
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
-      "lantern": "2025-01-29 17:36:57 +0000"
+      "has_diamond": "2025-01-29 17:37:31 +0000"
     },
     "done": true
   },
-  "ms:recipes/building_blocks/stripped_birch_log_woodcutting": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "birch_log": "2025-01-29 17:32:34 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/decorations/lantern/purple_from_dye": {
-    "criteria": {
-      "lantern": "2025-01-29 17:36:57 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/decorations/sign/hellwood_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-01-29 17:37:00 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/building_blocks/gem/raw_tin_smelt": {
-    "criteria": {
-      "ore": "2025-01-29 17:22:06 +0000"
-    },
-    "done": true
-  },
-  "ms:recipes/decorations/sign/maple_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-01-29 17:37:00 +0000"
+      "has_oxeye_daisy": "2025-01-29 17:38:12 +0000"
     },
     "done": true
   },
@@ -4633,9 +4640,135 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_diamond": "2025-01-29 17:37:31 +0000"
+      "has_mutton": "2025-01-29 17:41:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-29 17:41:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-29 17:41:44 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/blue": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/misc/materials/chainmail": {
+    "criteria": {
+      "has_nugget": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/lime": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/orange": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/light_grey": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/brown": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/red": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/cyan": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/magenta": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/grey": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/light_blue": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/purple": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/pink": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/yellow": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/green": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/black": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/lantern/white": {
+    "criteria": {
+      "item": "2025-01-29 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "ms:recipes/decorations/storage/spruce_bookshelf": {
+    "criteria": {
+      "plank": "2025-01-29 17:54:36 +0000"
     },
     "done": true
   },

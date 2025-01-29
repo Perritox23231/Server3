@@ -789,3 +789,14 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [29Jan2025 17:41:33.743] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1241}
 [29Jan2025 17:41:33.788] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
 [29Jan2025 17:41:33.883] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=26, z=-1227}
+[29Jan2025 17:45:03.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Suit Up]
+[29Jan2025 17:45:18.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -7.33770459322227,1.1503076508596237,6.729299556219985
+[29Jan2025 17:45:40.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zzzz
+[29Jan2025 17:46:10.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado was kicked for floating too long!
+[29Jan2025 17:46:10.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Flying is not enabled on this server
+[29Jan2025 17:46:10.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[29Jan2025 17:46:51.615] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22205fb4[id=<null>,name=Indisciplinado,properties={},legacy=false] (/127.180.173.131:49193) lost connection: Disconnected
+[29Jan2025 17:47:21.514] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d1747f4[id=<null>,name=Indisciplinado,properties={},legacy=false] (/127.180.173.131:38115) lost connection: Disconnected
+[29Jan2025 17:47:28.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:53639] logged in with entity id 30062 at (717.592844778389, 93.16610926093821, 784.0204861870519)
+[29Jan2025 17:47:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[29Jan2025 17:47:28.372] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
