@@ -800,3 +800,14 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [29Jan2025 17:47:28.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:53639] logged in with entity id 30062 at (717.592844778389, 93.16610926093821, 784.0204861870519)
 [29Jan2025 17:47:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
 [29Jan2025 17:47:28.372] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
+[29Jan2025 17:55:10.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -0.07169903170779435,0.5061351021062137,-10.042250765694575
+[29Jan2025 17:55:14.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Timed out
+[29Jan2025 17:55:14.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[29Jan2025 17:55:27.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:45223] logged in with entity id 31929 at (724.621763420079, 85.7531999805212, 771.9773837615519)
+[29Jan2025 17:55:27.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[29Jan2025 17:55:27.755] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
+[29Jan2025 17:57:06.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10953, l='ServerLevel[world]', x=663.34, y=79.89, z=852.46] died, message: 'Unemployed was slain by Zombie'
+[29Jan2025 17:59:03.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Disconnected
+[29Jan2025 17:59:03.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[29Jan2025 17:59:04.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natsukuunnnn lost connection: Disconnected
+[29Jan2025 17:59:04.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn left the game
