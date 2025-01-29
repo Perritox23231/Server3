@@ -13478,3 +13478,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [29Jan2025 23:41:38.013] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
 [29Jan2025 23:41:53.660] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
 [29Jan2025 23:41:53.660] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[29Jan2025 23:50:02.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Isn't It Iron Pick]
+[29Jan2025 23:50:06.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Diamonds!]
+[29Jan2025 23:55:22.548] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7638, l='ServerLevel[world]', x=264.37, y=101.00, z=609.72] died, message: 'Unemployed suffocated in a wall'
