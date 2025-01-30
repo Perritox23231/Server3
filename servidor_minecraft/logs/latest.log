@@ -219,3 +219,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 17:19:04.347] [Server thread/INFO] [Jade/]: Syncing config to natsukuunnnn (35ec3435-d61b-398c-9847-7c003447c444)
 [30Jan2025 17:26:41.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> zzz ?
 [30Jan2025 17:26:45.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> si
+[30Jan2025 17:36:43.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/33310, l='ServerLevel[world]', x=613.15, y=67.00, z=86.62] died, message: 'Unemployed was slain by Indisciplinado'
+[30Jan2025 17:38:23.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin was doomed to fall by Skeleton
+[30Jan2025 17:44:53.805] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/33311, l='ServerLevel[world]', x=609.11, y=74.50, z=91.30] died, message: 'Armorer was slain by Zombie'
