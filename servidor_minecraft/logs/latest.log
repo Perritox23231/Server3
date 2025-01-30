@@ -154,3 +154,11 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 21:08:54.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn joined the game
 [30Jan2025 21:08:54.586] [Server thread/INFO] [Jade/]: Syncing config to natsukuunnnn (35ec3435-d61b-398c-9847-7c003447c444)
 [30Jan2025 21:25:35.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Sneak 100]
+[30Jan2025 21:27:52.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wakkeywakey[/127.28.108.156:37329] logged in with entity id 9223 at (-23.925564131223872, 66.0, 236.16402516758575)
+[30Jan2025 21:27:52.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey joined the game
+[30Jan2025 21:27:52.486] [Server thread/INFO] [Jade/]: Syncing config to wakkeywakey (784f8b68-d963-3f6d-884e-39520ba9efc5)
+[30Jan2025 21:28:05.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Flexible Schedule]
+[30Jan2025 21:29:31.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> sebas
+[30Jan2025 21:29:44.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> [name:"casita", x:823, y:83, z:720, dim:minecraft:overworld]
+[30Jan2025 21:36:46.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wakkeywakey lost connection: Disconnected
+[30Jan2025 21:36:46.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey left the game
