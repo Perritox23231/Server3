@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-01-29 16:42:27 +0000",
       "minecraft:river": "2025-01-29 15:48:34 +0000",
+      "minecraft:forest": "2025-01-30 01:14:09 +0000",
       "minecraft:plains": "2025-01-27 18:04:26 +0000"
     },
     "done": false
@@ -1745,6 +1746,7 @@
       "minecraft:spider": "2025-01-29 23:49:04 +0000",
       "minecraft:creeper": "2025-01-29 23:57:05 +0000",
       "minecraft:witch": "2025-01-30 00:02:15 +0000",
+      "minecraft:husk": "2025-01-30 01:18:32 +0000",
       "minecraft:zombie": "2025-01-29 17:44:50 +0000"
     },
     "done": false
@@ -2493,6 +2495,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-01-30 01:17:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-30 01:15:34 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-30 00:55:56 +0000"
@@ -2505,9 +2519,27 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-01-30 01:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-30 00:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-30 01:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-30 01:15:34 +0000"
     },
     "done": true
   },
@@ -2559,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-30 01:17:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-30 00:49:32 +0000"
@@ -2577,9 +2615,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-01-30 01:17:50 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-30 00:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-30 01:17:36 +0000"
     },
     "done": true
   },

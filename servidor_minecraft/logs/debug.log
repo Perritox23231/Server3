@@ -3019,3 +3019,17 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 01:10:45.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Cover Me with Diamonds]
 [30Jan2025 01:11:15.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Cover Me with Diamonds]
 [30Jan2025 01:12:25.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Isn't It Iron Pick]
+[30Jan2025 01:14:22.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 01:14:22.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 01:17:18.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Cover Me with Diamonds]
+[30Jan2025 01:17:36.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Ice Bucket Challenge]
+[30Jan2025 01:19:10.716] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['natsukuunnnn'/420, l='ServerLevel[world]', x=629.95, y=116.00, z=610.70], dimensionLocationPath overworld
+[30Jan2025 01:19:22.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 01:19:22.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 01:20:44.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado was killed by Area Effect Cloud using magic
+[30Jan2025 01:20:44.631] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Indisciplinado'/179, l='ServerLevel[world]', x=628.79, y=113.06, z=609.56]
+[30Jan2025 01:21:53.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! 7.330473001850123,1.9375,6.690139762051899
+[30Jan2025 01:22:18.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado was slain by Husk
+[30Jan2025 01:22:18.668] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Indisciplinado'/179, l='ServerLevel[world]', x=629.70, y=109.50, z=602.30]
+[30Jan2025 01:22:53.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn was slain by Skeleton
+[30Jan2025 01:22:53.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['natsukuunnnn'/420, l='ServerLevel[world]', x=622.16, y=123.00, z=614.70]
