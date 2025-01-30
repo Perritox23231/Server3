@@ -315,3 +315,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 03:13:31.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Nightmare Fuel]
 [30Jan2025 03:14:17.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> dios mio
 [30Jan2025 03:14:24.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> fui al neter casi me muero
+[30Jan2025 03:18:47.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -5.901842820073739,0.17675927506424216,-8.22350821349437
+[30Jan2025 03:19:33.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [A Seedy Place]

@@ -2685,6 +2685,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-30 03:20:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-01-30 03:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-30 03:13:18 +0000"
@@ -2709,6 +2721,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 03:20:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-01-30 02:16:43 +0000"
@@ -2718,7 +2736,10 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-01-30 03:01:45 +0000",
+      "rice": "2025-01-30 03:18:26 +0000",
       "potato": "2025-01-30 03:01:24 +0000",
+      "wheat": "2025-01-30 03:19:33 +0000",
+      "pumpkin": "2025-01-30 03:19:57 +0000",
       "carrot": "2025-01-30 02:59:07 +0000"
     },
     "done": false
@@ -2753,6 +2774,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 03:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-30 03:04:55 +0000"
@@ -2762,6 +2789,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-01-30 02:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-30 03:19:33 +0000"
     },
     "done": true
   },
@@ -2789,6 +2822,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-01-30 03:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-30 02:42:45 +0000"
@@ -2810,6 +2849,12 @@
   "mcwbridges:recipes/balustrade_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-30 02:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-30 03:20:10 +0000"
     },
     "done": true
   },
