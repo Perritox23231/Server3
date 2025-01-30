@@ -222,3 +222,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 17:36:43.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/33310, l='ServerLevel[world]', x=613.15, y=67.00, z=86.62] died, message: 'Unemployed was slain by Indisciplinado'
 [30Jan2025 17:38:23.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin was doomed to fall by Skeleton
 [30Jan2025 17:44:53.805] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/33311, l='ServerLevel[world]', x=609.11, y=74.50, z=91.30] died, message: 'Armorer was slain by Zombie'
+[30Jan2025 18:00:11.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zzz?
+[30Jan2025 18:00:19.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> tamos lejitos
+[30Jan2025 18:00:25.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> ok
+[30Jan2025 18:05:54.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5812ms or 116 ticks behind
+[30Jan2025 18:05:54.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved wrongly!
