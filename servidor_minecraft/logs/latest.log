@@ -163,3 +163,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 00:44:36.088] [Server thread/INFO] [Jade/]: Syncing config to natsukuunnnn (35ec3435-d61b-398c-9847-7c003447c444)
 [30Jan2025 00:44:59.454] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/730, l='ServerLevel[world]', x=860.34, y=91.70, z=495.96]
 [30Jan2025 00:50:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Getting an Upgrade]
+[30Jan2025 00:53:47.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zzz
+[30Jan2025 00:53:59.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Sweet Dreams]
+[30Jan2025 00:59:34.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Stone Age]
+[30Jan2025 01:06:55.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Suit Up]
+[30Jan2025 01:10:45.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Cover Me with Diamonds]
+[30Jan2025 01:11:15.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Cover Me with Diamonds]
+[30Jan2025 01:12:25.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Isn't It Iron Pick]

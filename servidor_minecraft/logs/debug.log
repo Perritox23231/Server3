@@ -2998,3 +2998,24 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 00:49:22.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 00:49:22.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jan2025 00:50:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Getting an Upgrade]
+[30Jan2025 00:53:47.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zzz
+[30Jan2025 00:53:59.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Sweet Dreams]
+[30Jan2025 00:54:22.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:54:22.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:57:58.272] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jan2025 00:57:58.975] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jan2025 00:57:58.976] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jan2025 00:57:58.978] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jan2025 00:57:58.981] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[30Jan2025 00:57:58.981] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[30Jan2025 00:59:22.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:59:22.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:59:34.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Stone Age]
+[30Jan2025 01:04:22.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 01:04:22.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 01:06:55.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Suit Up]
+[30Jan2025 01:09:22.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 01:09:22.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 01:10:45.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Cover Me with Diamonds]
+[30Jan2025 01:11:15.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Cover Me with Diamonds]
+[30Jan2025 01:12:25.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Isn't It Iron Pick]
