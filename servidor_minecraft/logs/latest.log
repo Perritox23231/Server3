@@ -235,3 +235,22 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 04:59:51.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:37653] logged in with entity id 13684 at (564.6999999880791, 35.0, 753.5089829114556)
 [30Jan2025 04:59:51.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
 [30Jan2025 04:59:51.554] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
+[30Jan2025 05:01:01.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/110, l='ServerLevel[world]', x=-9.00, y=76.00, z=169.13] died, message: 'Farmer was blown up by Creeper'
+[30Jan2025 05:01:01.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 was blown up by Creeper
+[30Jan2025 05:02:25.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox has made the advancement [Stone Age]
+[30Jan2025 05:02:38.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox has made the advancement [Getting an Upgrade]
+[30Jan2025 05:03:41.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: brthon22333232 lost connection: Timed out
+[30Jan2025 05:03:41.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 left the game
+[30Jan2025 05:05:18.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! 0.26167129820873924,-0.25220334025372537,-9.998789426344274
+[30Jan2025 05:06:04.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: brthon22333232[/127.79.255.246:41747] logged in with entity id 20701 at (112.63334778667327, 68.0, 264.26073202011116)
+[30Jan2025 05:06:04.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 joined the game
+[30Jan2025 05:06:04.595] [Server thread/INFO] [Jade/]: Syncing config to brthon22333232 (4b5762e8-63ba-32e3-88bb-8835d14fd74b)
+[30Jan2025 05:07:20.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 has made the advancement [Stone Age]
+[30Jan2025 05:07:42.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 has made the advancement [Getting an Upgrade]
+[30Jan2025 05:08:12.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado was slain by Cave Centipede
+[30Jan2025 05:09:06.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox has made the advancement [Crops of the Wild]
+[30Jan2025 05:09:22.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Timed out
+[30Jan2025 05:09:22.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[30Jan2025 05:09:34.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:49135] logged in with entity id 23319 at (711.5545910344807, 92.0, 777.7404176585269)
+[30Jan2025 05:09:34.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[30Jan2025 05:09:34.140] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
