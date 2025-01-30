@@ -2342,153 +2342,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-01-30 01:22:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-30 01:16:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-01-30 01:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-30 01:16:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-01-30 01:18:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-30 00:48:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/fishing_rod": {
+  "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
-      "has_string": "2025-01-30 01:01:56 +0000"
+      "has_planks": "2025-01-30 01:00:23 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "diamond_helmet": "2025-01-30 01:17:18 +0000"
+      "has_logs": "2025-01-30 01:00:23 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/oak_log_bridge_stair": {
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "has_planks": "2025-01-30 01:34:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-01-30 01:16:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-01-30 01:15:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-30 01:16:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-01-30 01:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-01-30 01:15:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-30 01:16:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-01-30 01:16:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-01-30 01:01:56 +0000"
+      "has_log": "2025-01-30 01:00:23 +0000"
     },
     "done": true
   },
   "mcwbridges:recipes/asian_red_bridge": {
     "criteria": {
       "has_planks": "2025-01-30 01:00:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
     },
     "done": true
   },
@@ -2510,51 +2390,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+  "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+      "has_planks": "2025-01-30 01:00:28 +0000"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/combat/bow": {
     "criteria": {
-      "lava_bucket": "2025-01-30 01:45:53 +0000"
+      "has_string": "2025-01-30 01:01:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+      "has_string": "2025-01-30 01:01:56 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/oak_bridge_pier": {
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "has_planks": "2025-01-30 01:00:23 +0000"
+      "has_string": "2025-01-30 01:01:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+  "minecraft:recipes/decorations/candle": {
     "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2025-01-30 01:15:23 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-01-30 01:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+      "has_string": "2025-01-30 01:01:56 +0000"
     },
     "done": true
   },
@@ -2564,9 +2426,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "minecraft:recipes/decorations/loom": {
     "criteria": {
-      "has_logs": "2025-01-30 01:00:23 +0000"
+      "has_string": "2025-01-30 01:01:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-30 01:09:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-30 01:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-30 01:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-30 01:15:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-30 01:15:23 +0000"
     },
     "done": true
   },
@@ -2576,9 +2468,75 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/warrior": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "has_item": "2025-01-30 01:17:18 +0000"
+      "has_peony": "2025-01-30 01:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
     },
     "done": true
   },
@@ -2594,24 +2552,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/asian_red_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-30 01:00:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-01-30 01:15:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-01-30 01:01:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-30 01:16:06 +0000"
@@ -2624,15 +2564,117 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_log": "2025-01-30 01:00:23 +0000"
+      "has_book": "2025-01-30 01:16:53 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
-      "has_backpack": "2025-01-30 01:09:48 +0000"
+      "has_book": "2025-01-30 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-30 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-30 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-30 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-30 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-30 01:17:18 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-01-30 01:17:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-01-30 01:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-01-30 01:22:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-30 01:45:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-30 02:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-30 02:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-30 02:16:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-30 02:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-30 02:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-30 02:16:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-01-30 02:15:51 +0000"
     },
     "done": true
   },

@@ -10,6 +10,7 @@
       "minecraft:cherry_grove": "2025-01-29 16:42:27 +0000",
       "minecraft:river": "2025-01-29 15:48:34 +0000",
       "minecraft:forest": "2025-01-30 01:14:09 +0000",
+      "minecraft:meadow": "2025-01-30 02:13:21 +0000",
       "minecraft:plains": "2025-01-27 18:04:26 +0000"
     },
     "done": false
@@ -202,11 +203,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-01-30 01:54:58 +0000",
       "cooked_mutton": "2025-01-29 23:25:53 +0000",
       "cooked_beef": "2025-01-29 17:20:36 +0000",
       "potato": "2025-01-29 15:31:29 +0000",
       "pumpkin_pie": "2025-01-29 16:39:04 +0000",
-      "bread": "2025-01-29 15:39:08 +0000"
+      "bread": "2025-01-29 15:39:08 +0000",
+      "beetroot": "2025-01-30 02:10:15 +0000",
+      "rabbit_stew": "2025-01-30 01:59:11 +0000"
     },
     "done": false
   },
@@ -2471,6 +2475,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-30 01:59:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2025-01-30 01:24:22 +0000"
@@ -2507,6 +2517,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-30 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-30 00:49:32 +0000"
@@ -2537,6 +2565,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed_by": "2025-01-30 02:12:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-30 00:55:56 +0000"
@@ -2546,6 +2580,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-30 00:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-30 02:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 02:05:46 +0000"
     },
     "done": true
   },
@@ -2567,9 +2613,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 02:05:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 02:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-01-30 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-30 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 02:05:46 +0000"
     },
     "done": true
   },
@@ -2585,6 +2661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-01-30 01:15:34 +0000"
@@ -2597,9 +2679,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-30 02:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-01-30 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 02:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 02:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 02:05:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-30 01:59:11 +0000"
     },
     "done": true
   },
@@ -2609,9 +2721,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-30 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 02:11:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-30 01:57:25 +0000"
     },
     "done": true
   },
@@ -2621,15 +2757,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 02:05:46 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-01-30 00:46:46 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-30 02:32:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-30 00:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-30 02:05:46 +0000"
     },
     "done": true
   },
@@ -2663,9 +2829,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-01-30 01:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-30 00:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-30 01:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-30 02:10:27 +0000"
     },
     "done": true
   },
@@ -2693,15 +2883,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-30 01:57:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-30 00:49:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-01-30 01:25:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-30 02:10:27 +0000"
     },
     "done": true
   },
@@ -2714,6 +2922,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-30 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-30 02:10:27 +0000"
     },
     "done": true
   },
@@ -2735,6 +2949,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-30 02:10:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-30 02:09:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-30 01:17:36 +0000"
@@ -2750,6 +2976,12 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-01-30 01:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-01-30 02:10:27 +0000"
     },
     "done": true
   },

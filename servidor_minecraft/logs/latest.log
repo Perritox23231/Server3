@@ -180,3 +180,60 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 01:45:53.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Hot Stuff]
 [30Jan2025 01:50:52.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zz
 [30Jan2025 01:53:49.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -9.41961393866029,-2.0,2.8823735908307526
+[30Jan2025 01:54:55.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! 9.61572900345584,-1.5924459710024195,-3.027338520339299
+[30Jan2025 01:55:27.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -4.392609311471574,0.0,9.040861077183308
+[30Jan2025 01:57:11.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! 9.958392710085263,0.0,1.2817830379233328
+[30Jan2025 01:57:20.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6475ms or 129 ticks behind
+[30Jan2025 01:57:20.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natsukuunnnn moved too quickly! -9.597571044069014,0.0,-3.49242496027955
+[30Jan2025 01:57:20.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gin moved too quickly! 1.356520845851719,0.0,9.987537889164742
+[30Jan2025 01:57:42.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Acquire Hardware]
+[30Jan2025 01:57:48.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -9.005084009746383,1.5,-4.437123118886348
+[30Jan2025 01:59:19.367] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=740, y=-46, z=1311} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Jan2025 01:59:19.367] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=740, y=-46, z=1311}
+[30Jan2025 02:03:21.944] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[30Jan2025 02:03:21.952] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[30Jan2025 02:03:21.953] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[30Jan2025 02:03:21.953] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[30Jan2025 02:03:21.961] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[30Jan2025 02:03:22.079] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[30Jan2025 02:03:22.080] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[30Jan2025 02:03:22.080] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[30Jan2025 02:03:22.094] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[30Jan2025 02:03:32.938] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[30Jan2025 02:03:33.184] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[30Jan2025 02:03:33.185] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[30Jan2025 02:06:54.730] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[30Jan2025 02:06:54.730] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[30Jan2025 02:06:54.731] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[30Jan2025 02:08:29.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zz
+[30Jan2025 02:12:01.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natsukuunnnn lost connection: Disconnected
+[30Jan2025 02:12:01.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn left the game
+[30Jan2025 02:12:41.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Convergent Evolution...]
+[30Jan2025 02:12:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Crops of the Wild]
+[30Jan2025 02:13:09.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natsukuunnnn[/127.128.187.214:49661] logged in with entity id 28411 at (738.4308430339329, 66.0, 792.3151269213934)
+[30Jan2025 02:13:09.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn joined the game
+[30Jan2025 02:13:09.056] [Server thread/INFO] [Jade/]: Syncing config to natsukuunnnn (35ec3435-d61b-398c-9847-7c003447c444)
+[30Jan2025 02:13:31.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wakkeywakey[/127.28.108.156:50419] logged in with entity id 28772 at (9.5, 64.0, -1.5)
+[30Jan2025 02:13:31.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey joined the game
+[30Jan2025 02:13:31.133] [Server thread/INFO] [Jade/]: Syncing config to wakkeywakey (784f8b68-d963-3f6d-884e-39520ba9efc5)
+[30Jan2025 02:14:14.994] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 02:14:25.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 02:14:31.748] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 02:14:31.750] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 02:15:21.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28534, l='ServerLevel[world]', x=689.97, y=111.50, z=878.70] died, message: 'Unemployed hit the ground too hard'
+[30Jan2025 02:15:51.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Hunt and Gather]
+[30Jan2025 02:17:28.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> sebas
+[30Jan2025 02:17:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> te paso
+[30Jan2025 02:17:41.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey has made the advancement [Stone Age]
+[30Jan2025 02:17:49.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey has made the advancement [Getting an Upgrade]
+[30Jan2025 02:18:39.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wakkeywakey lost connection: Disconnected
+[30Jan2025 02:18:39.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey left the game
+[30Jan2025 02:24:55.503] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/109, l='ServerLevel[world]', x=49.50, y=68.00, z=100.88] died, message: 'Librarian was slain by Indisciplinado'
+[30Jan2025 02:25:04.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> ZZ ?
+[30Jan2025 02:25:11.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> siw
+[30Jan2025 02:25:22.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zz
+[30Jan2025 02:25:51.946] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 02:25:51.946] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 02:25:55.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> z
+[30Jan2025 02:28:30.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gin moved too quickly! 5.328752560962601,0.5016000115871435,-8.609639742778654
+[30Jan2025 02:32:33.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Best Friends Forever]
