@@ -162,3 +162,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 21:29:44.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> [name:"casita", x:823, y:83, z:720, dim:minecraft:overworld]
 [30Jan2025 21:36:46.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wakkeywakey lost connection: Disconnected
 [30Jan2025 21:36:46.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey left the game
+[30Jan2025 21:40:51.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> [name:"salida", x:526, y:-21, z:740, dim:minecraft:overworld]
