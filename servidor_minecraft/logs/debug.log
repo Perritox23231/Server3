@@ -3413,3 +3413,18 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 20:41:56.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=913, y=52, z=817} BlockPos{x=913, y=53, z=817}
 [30Jan2025 20:45:22.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 20:45:22.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 20:50:22.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 20:50:22.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 20:53:39.339] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/8719, l='ServerLevel[world]', x=816.71, y=80.16, z=740.32], dimensionLocationPath overworld
+[30Jan2025 20:53:40.089] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/8719, l='ServerLevel[world]', x=818.06, y=79.23, z=740.54, removed=DISCARDED]
+[30Jan2025 20:53:53.839] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/8800, l='ServerLevel[world]', x=816.71, y=81.18, z=749.56], dimensionLocationPath overworld
+[30Jan2025 20:53:53.839] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/8800, l='ServerLevel[world]', x=816.71, y=81.18, z=749.56] in list []
+[30Jan2025 20:53:55.089] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/8800, l='ServerLevel[world]', x=816.13, y=80.50, z=748.48, removed=DISCARDED]
+[30Jan2025 20:53:59.539] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/8838, l='ServerLevel[world]', x=817.38, y=81.25, z=727.63], dimensionLocationPath overworld
+[30Jan2025 20:53:59.539] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/8838, l='ServerLevel[world]', x=817.38, y=81.25, z=727.63] in list []
+[30Jan2025 20:54:00.339] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/8838, l='ServerLevel[world]', x=818.44, y=79.08, z=728.24, removed=DISCARDED]
+[30Jan2025 20:54:18.739] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/8969, l='ServerLevel[world]', x=821.49, y=77.53, z=743.72], dimensionLocationPath overworld
+[30Jan2025 20:54:18.739] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/8969, l='ServerLevel[world]', x=821.49, y=77.53, z=743.72] in list []
+[30Jan2025 20:54:19.289] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/8969, l='ServerLevel[world]', x=821.04, y=77.06, z=744.52, removed=DISCARDED]
+[30Jan2025 20:55:22.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 20:55:22.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

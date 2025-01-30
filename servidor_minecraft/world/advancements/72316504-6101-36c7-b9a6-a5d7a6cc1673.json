@@ -3838,5 +3838,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-01-30 20:51:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
