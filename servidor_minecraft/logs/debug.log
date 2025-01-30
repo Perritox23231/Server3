@@ -3048,3 +3048,18 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 01:35:58.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -4.619183861906322,1.1661092609382138,-8.835441189714857
 [30Jan2025 01:39:22.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 01:39:22.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 01:44:22.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 01:44:22.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 01:45:53.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Hot Stuff]
+[30Jan2025 01:48:03.805] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/17223, l='ServerLevel[world]', x=786.74, y=79.50, z=725.70], dimensionLocationPath overworld
+[30Jan2025 01:48:03.806] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/17223, l='ServerLevel[world]', x=786.74, y=79.50, z=725.70] in list []
+[30Jan2025 01:48:04.305] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/17223, l='ServerLevel[world]', x=786.08, y=79.26, z=725.13, removed=DISCARDED]
+[30Jan2025 01:48:06.420] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['natsukuunnnn'/420, l='ServerLevel[world]', x=786.34, y=79.00, z=725.66], dimensionLocationPath overworld
+[30Jan2025 01:48:06.420] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['natsukuunnnn'/420, l='ServerLevel[world]', x=786.34, y=79.00, z=725.66] in list []
+[30Jan2025 01:48:21.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['natsukuunnnn'/420, l='ServerLevel[world]', x=824.46, y=81.00, z=718.88]
+[30Jan2025 01:49:22.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 01:49:22.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 01:50:52.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zz
+[30Jan2025 01:53:49.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -9.41961393866029,-2.0,2.8823735908307526
+[30Jan2025 01:54:22.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 01:54:22.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
