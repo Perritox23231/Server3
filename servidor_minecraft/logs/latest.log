@@ -167,3 +167,78 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 00:10:24.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=846, y=87, z=764} BlockPos{x=846, y=86, z=763}
 [30Jan2025 00:11:32.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zzzz
 [30Jan2025 00:11:40.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> zzzz
+[30Jan2025 00:20:22.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gin[/127.235.137.178:40665] logged in with entity id 5490 at (10.5, 64.0, -7.5)
+[30Jan2025 00:20:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin joined the game
+[30Jan2025 00:20:22.306] [Server thread/INFO] [Jade/]: Syncing config to Gin (719e89c9-e894-3bf7-991a-20409ea1822c)
+[30Jan2025 00:21:00.539] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:21:00.539] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:22:51.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> zzz ?
+[30Jan2025 00:23:00.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> si
+[30Jan2025 00:23:05.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gin lost connection: Disconnected
+[30Jan2025 00:23:05.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin left the game
+[30Jan2025 00:23:06.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> zzzzz
+[30Jan2025 00:23:22.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zz
+[30Jan2025 00:23:38.564] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a162c4c[id=<null>,name=Gin,properties={},legacy=false] (/127.235.137.178:55591) lost connection: Disconnected
+[30Jan2025 00:23:48.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gin[/127.235.137.178:34017] logged in with entity id 7579 at (129.8891216554747, 65.0, 54.53005563661453)
+[30Jan2025 00:23:48.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin joined the game
+[30Jan2025 00:23:48.501] [Server thread/INFO] [Jade/]: Syncing config to Gin (719e89c9-e894-3bf7-991a-20409ea1822c)
+[30Jan2025 00:24:28.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> oye jp por tu zona hay arboles blancos?
+[30Jan2025 00:24:33.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> sii
+[30Jan2025 00:24:37.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> montones
+[30Jan2025 00:24:46.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> voy a ir a robar ok
+[30Jan2025 00:24:51.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> ok ratera
+[30Jan2025 00:25:04.090] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8336, l='ServerLevel[world]', x=485.78, y=2.00, z=-38.02, removed=DISCARDED]
+[30Jan2025 00:25:04.840] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8338, l='ServerLevel[world]', x=487.10, y=6.00, z=-32.13, removed=DISCARDED]
+[30Jan2025 00:25:05.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> sisoy
+[30Jan2025 00:25:06.283] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8340, l='ServerLevel[world]', x=493.14, y=19.00, z=-35.29, removed=DISCARDED]
+[30Jan2025 00:26:11.641] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[30Jan2025 00:26:11.643] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[30Jan2025 00:26:11.751] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[30Jan2025 00:26:11.751] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[30Jan2025 00:26:11.809] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[30Jan2025 00:26:17.037] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[30Jan2025 00:26:17.051] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[30Jan2025 00:26:17.258] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[30Jan2025 00:26:17.259] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[30Jan2025 00:26:22.260] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[30Jan2025 00:26:22.261] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[30Jan2025 00:26:22.275] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[30Jan2025 00:26:22.275] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[30Jan2025 00:26:22.275] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[30Jan2025 00:26:22.276] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[30Jan2025 00:26:28.476] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[30Jan2025 00:26:28.476] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[30Jan2025 00:26:28.477] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[30Jan2025 00:26:28.477] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[30Jan2025 00:27:15.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has reached the goal [Plant Food]
+[30Jan2025 00:27:57.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin has made the advancement [Convergent Evolution...]
+[30Jan2025 00:29:01.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/10802, l='ServerLevel[world]', x=704.34, y=8.00, z=53.88, removed=DISCARDED]
+[30Jan2025 00:29:59.240] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:30:06.618] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11934, l='ServerLevel[world]', x=647.99, y=-31.00, z=129.41, removed=DISCARDED]
+[30Jan2025 00:30:15.542] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11932, l='ServerLevel[world]', x=646.13, y=-29.00, z=133.61, removed=DISCARDED]
+[30Jan2025 00:30:16.177] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:30:22.290] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:30:22.291] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:30:27.239] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:30:33.789] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:30:33.789] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:31:02.779] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:31:02.780] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ms:brown_bear
+[30Jan2025 00:34:48.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gin lost connection: Disconnected
+[30Jan2025 00:34:48.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin left the game
+[30Jan2025 00:35:41.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gin[/127.235.137.178:57549] logged in with entity id 15737 at (617.9015035178786, 86.5, 595.3603277258067)
+[30Jan2025 00:35:41.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin joined the game
+[30Jan2025 00:35:41.391] [Server thread/INFO] [Jade/]: Syncing config to Gin (719e89c9-e894-3bf7-991a-20409ea1822c)
+[30Jan2025 00:35:52.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gin lost connection: Disconnected
+[30Jan2025 00:35:52.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin left the game
+[30Jan2025 00:36:51.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gin[/127.235.137.178:44101] logged in with entity id 16133 at (617.9015035178786, 86.5, 595.3603277258067)
+[30Jan2025 00:36:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin joined the game
+[30Jan2025 00:36:51.034] [Server thread/INFO] [Jade/]: Syncing config to Gin (719e89c9-e894-3bf7-991a-20409ea1822c)
+[30Jan2025 00:36:57.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zzz
+[30Jan2025 00:37:00.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> SALTE
+[30Jan2025 00:37:02.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> GIL
+[30Jan2025 00:37:03.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gin lost connection: Disconnected
+[30Jan2025 00:37:03.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin left the game
+[30Jan2025 00:37:26.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gin[/127.235.137.178:58211] logged in with entity id 16438 at (617.9015035178786, 86.5, 595.3603277258067)
+[30Jan2025 00:37:26.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin joined the game
+[30Jan2025 00:37:26.839] [Server thread/INFO] [Jade/]: Syncing config to Gin (719e89c9-e894-3bf7-991a-20409ea1822c)
