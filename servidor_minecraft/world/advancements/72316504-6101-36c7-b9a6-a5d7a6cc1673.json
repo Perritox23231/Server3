@@ -1760,6 +1760,7 @@
       "minecraft:spider": "2025-01-29 23:49:04 +0000",
       "minecraft:creeper": "2025-01-29 23:57:05 +0000",
       "minecraft:witch": "2025-01-30 00:02:15 +0000",
+      "minecraft:wither_skeleton": "2025-01-30 22:44:02 +0000",
       "minecraft:husk": "2025-01-30 01:18:32 +0000",
       "minecraft:piglin": "2025-01-30 22:30:10 +0000",
       "minecraft:zombie": "2025-01-29 17:44:50 +0000"
@@ -3968,9 +3969,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-30 22:36:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-30 22:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-30 22:36:42 +0000"
     },
     "done": true
   },
@@ -3992,9 +4005,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-30 22:42:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-01-30 22:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-30 22:36:42 +0000"
     },
     "done": true
   },

@@ -156,3 +156,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 22:23:55.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Enchanter]
 [30Jan2025 22:28:14.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Nightmare Fuel]
 [30Jan2025 22:39:52.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -8.321258059898355,1.2491870787446828,-5.844609769826093
+[30Jan2025 22:42:29.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [A Terrible Fortress]
+[30Jan2025 22:42:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [A Terrible Fortress]
