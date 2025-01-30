@@ -10,6 +10,7 @@
       "minecraft:cherry_grove": "2025-01-29 16:42:27 +0000",
       "minecraft:river": "2025-01-29 15:48:34 +0000",
       "minecraft:forest": "2025-01-30 01:14:09 +0000",
+      "minecraft:deep_dark": "2025-01-30 16:02:18 +0000",
       "minecraft:meadow": "2025-01-30 02:13:21 +0000",
       "minecraft:plains": "2025-01-27 18:04:26 +0000"
     },
@@ -3457,12 +3458,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-01-30 15:41:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-30 15:41:00 +0000"
@@ -3490,6 +3485,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-30 15:41:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-01-30 15:41:06 +0000"
     },
     "done": true
   },
