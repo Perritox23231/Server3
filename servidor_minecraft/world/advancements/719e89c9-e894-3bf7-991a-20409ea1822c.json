@@ -2206,6 +2206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-01-30 17:48:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-30 17:45:18 +0000"
@@ -2239,6 +2245,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-01-30 17:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-30 17:56:41 +0000"
     },
     "done": true
   },
@@ -2290,9 +2302,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-01-30 17:54:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-30 17:56:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-30 17:45:18 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-01-30 17:56:41 +0000"
     },
     "done": true
   },
