@@ -162,3 +162,35 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 04:39:44.924] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: brthon22333232[/127.146.84.153:43477] logged in with entity id 2222 at (-6.5, 64.0, -4.5)
 [30Jan2025 04:39:44.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 joined the game
 [30Jan2025 04:39:44.979] [Server thread/INFO] [Jade/]: Syncing config to brthon22333232 (4b5762e8-63ba-32e3-88bb-8835d14fd74b)
+[30Jan2025 04:42:13.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 has made the advancement [Alex's Mobs]
+[30Jan2025 04:42:23.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotMrPegox lost connection: Disconnected
+[30Jan2025 04:42:23.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox left the game
+[30Jan2025 04:44:50.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: brthon22333232 moved too quickly! 9.794509428877863,-1.2578585658599764,-2.4345852587127497
+[30Jan2025 04:45:00.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: brthon22333232 lost connection: Timed out
+[30Jan2025 04:45:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 left the game
+[30Jan2025 04:45:08.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! 6.502787983031453,2.772220747959963,7.244253268381726
+[30Jan2025 04:45:13.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotMrPegox[/127.159.230.156:48621] logged in with entity id 3798 at (-5.44879706274559, 65.0, -3.0290813303667847)
+[30Jan2025 04:45:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox joined the game
+[30Jan2025 04:45:13.614] [Server thread/INFO] [Jade/]: Syncing config to NotMrPegox (04683748-7b6c-3478-a8a0-49c91042f601)
+[30Jan2025 04:45:50.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: brthon22333232[/127.146.84.153:40773] logged in with entity id 4067 at (26.81300057052017, 64.67647087614428, -0.794463047831214)
+[30Jan2025 04:45:50.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 joined the game
+[30Jan2025 04:45:50.383] [Server thread/INFO] [Jade/]: Syncing config to brthon22333232 (4b5762e8-63ba-32e3-88bb-8835d14fd74b)
+[30Jan2025 04:46:06.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotMrPegox lost connection: Disconnected
+[30Jan2025 04:46:06.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox left the game
+[30Jan2025 04:46:13.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: brthon22333232 lost connection: Disconnected
+[30Jan2025 04:46:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 left the game
+[30Jan2025 04:46:14.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotMrPegox[/127.159.230.156:57919] logged in with entity id 4234 at (-2.2850298556630078, 65.0, -1.3825677772094402)
+[30Jan2025 04:46:14.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox joined the game
+[30Jan2025 04:46:14.635] [Server thread/INFO] [Jade/]: Syncing config to NotMrPegox (04683748-7b6c-3478-a8a0-49c91042f601)
+[30Jan2025 04:46:37.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: brthon22333232[/127.146.84.153:60291] logged in with entity id 4513 at (26.81300057052017, 64.21231150118884, -0.794463047831214)
+[30Jan2025 04:46:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 joined the game
+[30Jan2025 04:46:37.703] [Server thread/INFO] [Jade/]: Syncing config to brthon22333232 (4b5762e8-63ba-32e3-88bb-8835d14fd74b)
+[30Jan2025 04:46:55.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Take Aim]
+[30Jan2025 04:47:07.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: brthon22333232 lost connection: Timed out
+[30Jan2025 04:47:07.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 left the game
+[30Jan2025 04:47:43.177] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d8187b5[id=<null>,name=brthon22333232,properties={},legacy=false] (/127.146.84.153:55633) lost connection: Disconnected
+[30Jan2025 04:48:07.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: brthon22333232[/127.146.84.153:40635] logged in with entity id 5187 at (26.81300057052017, 64.13391149966296, -0.794463047831214)
+[30Jan2025 04:48:07.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 joined the game
+[30Jan2025 04:48:08.033] [Server thread/INFO] [Jade/]: Syncing config to brthon22333232 (4b5762e8-63ba-32e3-88bb-8835d14fd74b)
+[30Jan2025 04:48:38.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: brthon22333232 lost connection: Timed out
+[30Jan2025 04:48:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 left the game
