@@ -203,6 +203,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-30 05:52:57 +0000",
       "honey_bottle": "2025-01-30 01:54:58 +0000",
       "cooked_mutton": "2025-01-29 23:25:53 +0000",
       "sweet_berries": "2025-01-30 05:40:22 +0000",
@@ -214,6 +215,7 @@
       "bread": "2025-01-29 15:39:08 +0000",
       "golden_apple": "2025-01-30 05:23:37 +0000",
       "rotten_flesh": "2025-01-30 05:15:00 +0000",
+      "glow_berries": "2025-01-30 05:51:51 +0000",
       "beetroot": "2025-01-30 02:10:15 +0000",
       "mushroom_stew": "2025-01-30 04:50:43 +0000",
       "rabbit_stew": "2025-01-30 01:59:11 +0000"
@@ -3315,12 +3317,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-01-30 05:47:17 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-30 05:46:49 +0000"
@@ -3339,15 +3335,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet": {
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-30 05:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-30 05:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-01-30 05:47:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "has_porkchop": "2025-01-30 05:46:49 +0000"
+      "has_gray_wool": "2025-01-30 05:47:17 +0000"
     },
     "done": true
   },
@@ -3357,9 +3365,89 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "mcwbridges:recipes/asian_red_bridge": {
     "criteria": {
-      "has_porkchop": "2025-01-30 05:46:49 +0000"
+      "has_planks": "2025-01-30 05:53:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-30 05:53:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-30 05:53:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-30 05:53:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-30 05:53:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "onion": "2025-01-30 06:24:14 +0000",
+      "tomato": "2025-01-30 06:24:01 +0000",
+      "carrot": "2025-01-30 06:23:37 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-01-30 06:23:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 06:23:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-01-30 06:23:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-01-30 06:23:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-01-30 06:23:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 06:24:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 06:24:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-30 06:24:13 +0000"
     },
     "done": true
   },
