@@ -258,7 +258,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-30 17:21:10 +0000",
       "cooked_beef": "2025-01-29 16:56:15 +0000",
+      "porkchop": "2025-01-30 17:20:09 +0000",
       "bread": "2025-01-29 16:18:04 +0000",
       "carrot": "2025-01-30 05:09:16 +0000"
     },
@@ -3032,6 +3034,61 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-01-30 05:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-01-30 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-30 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-01-30 06:02:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-30 06:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2025-01-30 16:54:03 +0000",
+      "minecraft:ragdoll": "2025-01-30 06:07:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-30 06:07:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-01-30 06:20:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-01-30 06:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-30 06:21:51 +0000"
@@ -3056,36 +3113,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2025-01-30 06:02:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bale": {
-    "criteria": {
-      "has_rice_panicle": "2025-01-30 06:20:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:ragdoll": "2025-01-30 06:07:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-01-30 06:00:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/rice": {
-    "criteria": {
-      "has_rice_panicle": "2025-01-30 06:20:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-30 06:21:51 +0000"
@@ -3095,12 +3122,6 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-30 06:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-01-30 06:07:54 +0000"
     },
     "done": true
   },
@@ -3116,9 +3137,15 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/robe": {
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
-      "has_item": "2025-01-30 05:58:58 +0000"
+      "has_needed_dye": "2025-01-30 06:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-30 06:21:51 +0000"
     },
     "done": true
   },
@@ -3134,33 +3161,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-30 06:00:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-30 06:21:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2025-01-30 06:21:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
-      "has_blue_dye": "2025-01-30 06:21:51 +0000"
+      "has_any_ingredient": "2025-01-30 16:34:14 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
-      "has_onion": "2025-01-30 06:02:51 +0000"
+      "has_tomato": "2025-01-30 16:34:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-01-30 16:34:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-01-30 16:34:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-30 16:47:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-30 16:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-30 17:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-30 17:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-30 17:03:00 +0000"
     },
     "done": true
   },

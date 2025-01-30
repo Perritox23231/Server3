@@ -162,3 +162,60 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 16:05:14.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.18.57.57:42089] logged in with entity id 2130 at (535.338198274885, -30.0, 833.8293377764519)
 [30Jan2025 16:05:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
 [30Jan2025 16:05:14.906] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
+[30Jan2025 16:33:03.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natsukuunnnn[/127.128.187.214:40317] logged in with entity id 9515 at (825.056890275954, 83.0, 719.3456683915309)
+[30Jan2025 16:33:03.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn joined the game
+[30Jan2025 16:33:03.912] [Server thread/INFO] [Jade/]: Syncing config to natsukuunnnn (35ec3435-d61b-398c-9847-7c003447c444)
+[30Jan2025 16:34:10.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> buenos dias
+[30Jan2025 16:34:13.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> holaaaap
+[30Jan2025 16:34:22.154] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/638, l='ServerLevel[world]', x=652.40, y=57.77, z=934.83] died, message: 'Unemployed was slain by Zombie'
+[30Jan2025 16:34:36.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gin> Holaaa
+[30Jan2025 16:34:55.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> tienes arcilla ?
+[30Jan2025 16:35:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> si
+[30Jan2025 16:35:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> gina ta yendo
+[30Jan2025 16:35:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> ok
+[30Jan2025 16:38:03.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> bota algo
+[30Jan2025 16:38:20.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gin> gracias
+[30Jan2025 16:39:10.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> hay un lugar donde
+[30Jan2025 16:39:17.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> es un bioma, lleno de arcilla
+[30Jan2025 16:39:31.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> esta para tu lado ?
+[30Jan2025 16:39:36.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> atras de mi casa
+[30Jan2025 16:39:43.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> asu
+[30Jan2025 16:39:43.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> pasando la nieve
+[30Jan2025 16:39:56.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> ahi iremos
+[30Jan2025 16:40:15.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> siii
+[30Jan2025 16:40:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> tienen todas las semillas para cultivar?
+[30Jan2025 16:40:32.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> sii
+[30Jan2025 16:42:45.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [What a Deal!]
+[30Jan2025 16:43:38.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> tengo un aldeano en mi jai
+[30Jan2025 16:43:48.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> para tradear?
+[30Jan2025 16:43:51.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> yes
+[30Jan2025 16:44:00.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> si sacas reparacion me avisas
+[30Jan2025 16:44:07.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> sisi
+[30Jan2025 16:49:45.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> tas fina
+[30Jan2025 16:50:51.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=797, y=67, z=796} BlockPos{x=798, y=66, z=796}
+[30Jan2025 16:59:47.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gin lost connection: Timed out
+[30Jan2025 16:59:47.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin left the game
+[30Jan2025 16:59:47.157] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jan2025 16:59:54.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zzz
+[30Jan2025 17:00:01.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15814, l='ServerLevel[world]', x=1127.54, y=75.00, z=270.28] died, message: 'Unemployed was slain by Zombie'
+[30Jan2025 17:01:38.515] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2236c3ad[id=<null>,name=Gin,properties={},legacy=false] (/127.176.176.236:50911) lost connection: Disconnected
+[30Jan2025 17:03:31.043] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[30Jan2025 17:03:32.853] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[30Jan2025 17:03:38.284] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[30Jan2025 17:03:38.362] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[30Jan2025 17:03:38.367] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
+[30Jan2025 17:03:40.830] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[30Jan2025 17:03:40.865] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=28, z=-1201}
+[30Jan2025 17:05:51.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gin[/127.235.137.178:38909] logged in with entity id 21778 at (726.1482482134772, 85.0, 771.7286028243257)
+[30Jan2025 17:05:51.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin joined the game
+[30Jan2025 17:05:51.570] [Server thread/INFO] [Jade/]: Syncing config to Gin (719e89c9-e894-3bf7-991a-20409ea1822c)
+[30Jan2025 17:12:00.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zz?
+[30Jan2025 17:12:04.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gin> si
+[30Jan2025 17:18:21.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natsukuunnnn lost connection: Disconnected
+[30Jan2025 17:18:21.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn left the game
+[30Jan2025 17:18:56.856] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@648dad1a[id=<null>,name=natsukuunnnn,properties={},legacy=false] (/127.128.187.214:47103) lost connection: Disconnected
+[30Jan2025 17:19:04.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natsukuunnnn[/127.128.187.214:50225] logged in with entity id 27062 at (902.9765045045028, 68.0, 851.1807545835636)
+[30Jan2025 17:19:04.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn joined the game
+[30Jan2025 17:19:04.347] [Server thread/INFO] [Jade/]: Syncing config to natsukuunnnn (35ec3435-d61b-398c-9847-7c003447c444)
+[30Jan2025 17:26:41.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> zzz ?
+[30Jan2025 17:26:45.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> si
