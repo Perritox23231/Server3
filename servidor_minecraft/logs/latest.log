@@ -254,3 +254,30 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 05:09:34.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:49135] logged in with entity id 23319 at (711.5545910344807, 92.0, 777.7404176585269)
 [30Jan2025 05:09:34.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
 [30Jan2025 05:09:34.140] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
+[30Jan2025 05:11:14.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox has made the advancement [Monster Hunter]
+[30Jan2025 05:13:19.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Timed out
+[30Jan2025 05:13:19.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[30Jan2025 05:13:29.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:46467] logged in with entity id 25064 at (535.6915382021573, -36.0, 746.7208128527051)
+[30Jan2025 05:13:29.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[30Jan2025 05:13:29.936] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
+[30Jan2025 05:17:27.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=804, y=83, z=683} BlockPos{x=803, y=82, z=686}
+[30Jan2025 05:18:35.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox was slain by Zombie
+[30Jan2025 05:19:18.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox was slain by Zombie
+[30Jan2025 05:19:50.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -9.269056639726841,0.7531999805212017,4.215536076000831
+[30Jan2025 05:20:26.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=81, z=674} BlockPos{x=719, y=79, z=675}
+[30Jan2025 05:20:26.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=81, z=674} BlockPos{x=719, y=79, z=675}
+[30Jan2025 05:20:26.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=81, z=677} BlockPos{x=717, y=79, z=677}
+[30Jan2025 05:20:26.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=81, z=677} BlockPos{x=717, y=79, z=677}
+[30Jan2025 05:20:27.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=81, z=680} BlockPos{x=715, y=79, z=681}
+[30Jan2025 05:20:27.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=81, z=680} BlockPos{x=715, y=79, z=681}
+[30Jan2025 05:24:33.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -5.718821339803014,1.0,-8.23214349486102
+[30Jan2025 05:28:20.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! 7.953110328075724,0.0,-6.502593836931055
+[30Jan2025 05:29:34.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! 5.24329574669062,-1.0,8.621469836419351
+[30Jan2025 05:30:52.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Disconnected
+[30Jan2025 05:30:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[30Jan2025 05:31:29.528] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8bf8cc5[id=<null>,name=Indisciplinado,properties={},legacy=false] (/127.180.173.131:46869) lost connection: Disconnected
+[30Jan2025 05:31:35.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:56251] logged in with entity id 34722 at (161.30000001192093, -28.0, 695.6999999880791)
+[30Jan2025 05:31:35.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[30Jan2025 05:31:35.804] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
+[30Jan2025 05:47:41.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27619, l='ServerLevel[world]', x=690.50, y=90.00, z=895.01] died, message: 'Unemployed was slain by Zombie'
+[30Jan2025 05:47:48.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -10.189354290056372,1.916922182193531,0.5768074699452654
