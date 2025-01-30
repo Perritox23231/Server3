@@ -194,3 +194,44 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 04:48:08.033] [Server thread/INFO] [Jade/]: Syncing config to brthon22333232 (4b5762e8-63ba-32e3-88bb-8835d14fd74b)
 [30Jan2025 04:48:38.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: brthon22333232 lost connection: Timed out
 [30Jan2025 04:48:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 left the game
+[30Jan2025 04:51:32.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Disconnected
+[30Jan2025 04:51:32.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[30Jan2025 04:51:33.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: brthon22333232[/127.146.84.153:45413] logged in with entity id 6880 at (26.81300057052017, 64.05551149813708, -0.794463047831214)
+[30Jan2025 04:51:33.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 joined the game
+[30Jan2025 04:51:33.932] [Server thread/INFO] [Jade/]: Syncing config to brthon22333232 (4b5762e8-63ba-32e3-88bb-8835d14fd74b)
+[30Jan2025 04:52:03.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: brthon22333232 lost connection: Timed out
+[30Jan2025 04:52:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 left the game
+[30Jan2025 04:52:21.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: brthon22333232[/127.146.84.153:48881] logged in with entity id 7212 at (26.81300057052017, 64.05551149813708, -0.794463047831214)
+[30Jan2025 04:52:21.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 joined the game
+[30Jan2025 04:52:21.929] [Server thread/INFO] [Jade/]: Syncing config to brthon22333232 (4b5762e8-63ba-32e3-88bb-8835d14fd74b)
+[30Jan2025 04:52:51.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: brthon22333232 lost connection: Timed out
+[30Jan2025 04:52:51.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 left the game
+[30Jan2025 04:53:17.020] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d4e3ec4[id=<null>,name=Indisciplinado,properties={},legacy=false] (/127.180.173.131:44621) lost connection: Disconnected
+[30Jan2025 04:53:31.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:54791] logged in with entity id 7511 at (563.839291740442, 67.0, 749.3000000119209)
+[30Jan2025 04:53:31.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[30Jan2025 04:53:31.702] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
+[30Jan2025 04:57:40.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: brthon22333232[/127.146.84.153:59781] logged in with entity id 12161 at (26.81300057052017, 64.05551149813708, -0.794463047831214)
+[30Jan2025 04:57:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 joined the game
+[30Jan2025 04:57:40.493] [Server thread/INFO] [Jade/]: Syncing config to brthon22333232 (4b5762e8-63ba-32e3-88bb-8835d14fd74b)
+[30Jan2025 04:57:40.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado was kicked for floating too long!
+[30Jan2025 04:57:40.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Flying is not enabled on this server
+[30Jan2025 04:57:40.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[30Jan2025 04:57:51.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:32991] logged in with entity id 12271 at (531.9852992423095, 78.76636799395752, 783.2972940278872)
+[30Jan2025 04:57:51.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[30Jan2025 04:57:51.662] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
+[30Jan2025 04:59:02.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zz
+[30Jan2025 04:59:04.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zz
+[30Jan2025 04:59:12.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox has made the advancement [Sweet Dreams]
+[30Jan2025 04:59:12.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 has made the advancement [Sweet Dreams]
+[30Jan2025 04:59:13.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Disconnected
+[30Jan2025 04:59:13.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[30Jan2025 04:59:26.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMrPegox was slain by Spider
+[30Jan2025 04:59:27.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: brthon22333232 has made the advancement [Monster Hunter]
+[30Jan2025 04:59:39.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:36943] logged in with entity id 13409 at (564.6999999880791, 35.0, 753.5089829114556)
+[30Jan2025 04:59:39.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[30Jan2025 04:59:39.407] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
+[30Jan2025 04:59:45.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Disconnected
+[30Jan2025 04:59:45.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[30Jan2025 04:59:51.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:37653] logged in with entity id 13684 at (564.6999999880791, 35.0, 753.5089829114556)
+[30Jan2025 04:59:51.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[30Jan2025 04:59:51.554] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
