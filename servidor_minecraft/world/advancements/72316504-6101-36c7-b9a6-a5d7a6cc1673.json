@@ -3399,6 +3399,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-01-30 20:26:02 +0000",
       "onion": "2025-01-30 06:24:14 +0000",
       "tomato": "2025-01-30 06:24:01 +0000",
       "carrot": "2025-01-30 06:23:37 +0000"
@@ -3828,6 +3829,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-01-30 18:16:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 20:22:12 +0000"
     },
     "done": true
   },
