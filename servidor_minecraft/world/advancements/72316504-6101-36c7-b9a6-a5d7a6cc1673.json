@@ -1743,6 +1743,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-29 17:16:08 +0000",
       "minecraft:spider": "2025-01-29 23:49:04 +0000",
+      "minecraft:creeper": "2025-01-29 23:57:05 +0000",
+      "minecraft:witch": "2025-01-30 00:02:15 +0000",
       "minecraft:zombie": "2025-01-29 17:44:50 +0000"
     },
     "done": false
@@ -2113,21 +2115,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/andesite_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:42:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
+      "has_sweet_berries": "2025-01-29 23:29:02 +0000"
     },
     "done": true
   },
@@ -2137,21 +2127,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-01-29 23:31:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-29 23:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-01-29 23:36:13 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:38:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:42:21 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_andesite_bridge": {
     "criteria": {
       "has_planks": "2025-01-29 23:42:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:42:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:42:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:42:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:42:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:42:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-29 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-29 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-29 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
     },
     "done": true
   },
@@ -2197,39 +2277,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/iron_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:52:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-01-29 23:36:13 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:42:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-01-29 23:43:45 +0000"
     },
     "done": true
   },
@@ -2242,12 +2298,6 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-01-29 23:43:45 +0000"
     },
     "done": true
   },
@@ -2269,51 +2319,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/cobblestone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:42:26 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/andesite_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:42:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-01-29 23:36:13 +0000"
-    },
-    "done": false
-  },
-  "mcwbridges:recipes/bridge_lantern": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:38:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/iron_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:52:50 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/cobblestone_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:42:26 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-29 23:42:26 +0000"
     },
     "done": true
   },
@@ -2329,15 +2337,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-01-29 23:29:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-29 23:45:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:52:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-29 23:52:50 +0000"
     },
     "done": true
   },
@@ -2347,15 +2361,111 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/andesite_bridge_pier": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
-      "has_planks": "2025-01-29 23:42:21 +0000"
+      "has_raw_gold": "2025-01-29 23:54:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_raw_copper": "2025-01-29 23:43:45 +0000"
+      "has_raw_gold": "2025-01-29 23:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-29 23:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-29 23:55:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-29 23:55:49 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-01-29 23:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-29 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-29 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-29 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-29 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-29 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-29 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-29 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-29 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-29 23:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-29 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-30 00:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-30 00:02:16 +0000"
     },
     "done": true
   },
