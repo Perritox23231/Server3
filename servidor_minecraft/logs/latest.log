@@ -237,3 +237,22 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 02:25:55.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> z
 [30Jan2025 02:28:30.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gin moved too quickly! 5.328752560962601,0.5016000115871435,-8.609639742778654
 [30Jan2025 02:32:33.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Best Friends Forever]
+[30Jan2025 02:35:49.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wakkeywakey[/127.28.108.156:49619] logged in with entity id 40880 at (-16.09603606048877, 70.0, 240.69999998807907)
+[30Jan2025 02:35:49.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey joined the game
+[30Jan2025 02:35:49.149] [Server thread/INFO] [Jade/]: Syncing config to wakkeywakey (784f8b68-d963-3f6d-884e-39520ba9efc5)
+[30Jan2025 02:35:49.935] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'ms:weapon_smith' in chunk [-15, 34], discarding
+[30Jan2025 02:35:49.936] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'ms:weapon_smith' in chunk [-14, 34], discarding
+[30Jan2025 02:35:49.938] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'ms:weapon_smith' in chunk [-15, 35], discarding
+[30Jan2025 02:35:49.939] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'ms:weapon_smith' in chunk [-14, 35], discarding
+[30Jan2025 02:35:49.942] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: ms:weapon_smith
+[30Jan2025 02:36:45.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wakkeywakey lost connection: Disconnected
+[30Jan2025 02:36:45.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey left the game
+[30Jan2025 02:37:09.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> zz
+[30Jan2025 02:37:18.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> no tenemos cama
+[30Jan2025 02:37:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> ay
+[30Jan2025 02:39:00.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -6.263359627425615,-0.04353562014750878,-8.079126455326751
+[30Jan2025 02:42:12.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Disconnected
+[30Jan2025 02:42:12.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[30Jan2025 02:43:33.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:57637] logged in with entity id 43345 at (86.84115248712304, 65.0, 37.84129413548054)
+[30Jan2025 02:43:33.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[30Jan2025 02:43:33.252] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
