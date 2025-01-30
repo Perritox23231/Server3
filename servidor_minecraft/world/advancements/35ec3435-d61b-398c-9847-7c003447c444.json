@@ -2697,6 +2697,14 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-01-30 03:01:45 +0000",
+      "potato": "2025-01-30 03:01:24 +0000",
+      "carrot": "2025-01-30 02:59:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-01-30 02:16:43 +0000"

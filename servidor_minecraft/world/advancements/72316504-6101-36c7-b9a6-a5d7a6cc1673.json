@@ -206,6 +206,7 @@
       "honey_bottle": "2025-01-30 01:54:58 +0000",
       "cooked_mutton": "2025-01-29 23:25:53 +0000",
       "cooked_beef": "2025-01-29 17:20:36 +0000",
+      "baked_potato": "2025-01-30 02:56:39 +0000",
       "apple": "2025-01-30 02:38:56 +0000",
       "potato": "2025-01-29 15:31:29 +0000",
       "pumpkin_pie": "2025-01-29 16:39:04 +0000",
@@ -2989,6 +2990,24 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-30 02:32:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-30 02:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-30 03:00:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-30 02:56:36 +0000"
     },
     "done": true
   },

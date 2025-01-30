@@ -6210,3 +6210,85 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 02:54:29.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jan2025 02:54:59.772] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=759.75, y=67.00, z=740.73], dimensionLocationPath overworld
 [30Jan2025 02:54:59.772] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=759.75, y=67.00, z=740.73] in list []
+[30Jan2025 02:55:57.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> miren
+[30Jan2025 02:56:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> UY
+[30Jan2025 02:56:22.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> SE VEN RAPIDOS
+[30Jan2025 02:56:24.655] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/49774, l='ServerLevel[world]', x=822.47, y=83.25, z=755.63], dimensionLocationPath overworld
+[30Jan2025 02:56:24.655] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/49774, l='ServerLevel[world]', x=822.47, y=83.25, z=755.63] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a951]
+[30Jan2025 02:56:25.355] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/49774, l='ServerLevel[world]', x=823.19, y=83.00, z=755.84, removed=DISCARDED]
+[30Jan2025 02:56:26.605] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/49779, l='ServerLevel[world]', x=822.51, y=83.36, z=755.56], dimensionLocationPath overworld
+[30Jan2025 02:56:26.605] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/49779, l='ServerLevel[world]', x=822.51, y=83.36, z=755.56] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a951]
+[30Jan2025 02:56:27.105] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/49779, l='ServerLevel[world]', x=822.78, y=83.11, z=755.88, removed=DISCARDED]
+[30Jan2025 02:56:28.214] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=822.43, y=83.00, z=755.01]
+[30Jan2025 02:56:38.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> aqui en ña sarten
+[30Jan2025 02:56:51.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> jajajajajaja
+[30Jan2025 02:57:02.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> como se que ya esta ?
+[30Jan2025 02:57:05.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> a
+[30Jan2025 02:57:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> xD
+[30Jan2025 02:57:22.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> la casita
+[30Jan2025 02:57:31.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> falta
+[30Jan2025 02:57:36.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=826.32, y=83.00, z=725.52], dimensionLocationPath overworld
+[30Jan2025 02:57:36.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=826.32, y=83.00, z=725.52] in list []
+[30Jan2025 02:57:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> falta poco igual
+[30Jan2025 02:57:38.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=824.84, y=83.00, z=727.15], dimensionLocationPath overworld
+[30Jan2025 02:57:38.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=824.84, y=83.00, z=727.15] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6efb]
+[30Jan2025 02:57:42.014] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=825.69, y=83.00, z=720.04]
+[30Jan2025 02:57:49.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> JAAJJAA
+[30Jan2025 02:57:50.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> xd
+[30Jan2025 02:57:51.564] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=824.12, y=83.00, z=720.48], dimensionLocationPath overworld
+[30Jan2025 02:57:51.564] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=824.12, y=83.00, z=720.48] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6efb]
+[30Jan2025 02:57:51.613] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=824.14, y=83.00, z=720.69]
+[30Jan2025 02:57:59.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> si
+[30Jan2025 02:58:00.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> es mucho espacio
+[30Jan2025 02:58:07.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> con shaders se ve mas bonito
+[30Jan2025 02:58:09.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> tienes que decirle a sebas o a noe
+[30Jan2025 02:58:15.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> q cosa
+[30Jan2025 02:58:22.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> para que esten en tu casa
+[30Jan2025 02:58:26.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> nuunnnnca
+[30Jan2025 02:58:27.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> por que es mucho cultivo
+[30Jan2025 02:58:27.864] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=798.76, y=80.00, z=737.29]
+[30Jan2025 02:59:07.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> entrara alguien + o nada ?
+[30Jan2025 02:59:15.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> mm no se
+[30Jan2025 02:59:16.965] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=778.00, y=82.50, z=760.70], dimensionLocationPath overworld
+[30Jan2025 02:59:16.966] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=778.00, y=82.50, z=760.70] in list []
+[30Jan2025 02:59:19.315] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=775.58, y=82.50, z=764.51]
+[30Jan2025 02:59:23.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> sebas tiene problemas con su chat y esta viendo
+[30Jan2025 02:59:28.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> ...
+[30Jan2025 02:59:29.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 02:59:29.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 02:59:31.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> si pues
+[30Jan2025 02:59:44.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> exploto mi camino
+[30Jan2025 02:59:53.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> quien ?
+[30Jan2025 03:00:01.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> un creeper
+[30Jan2025 03:00:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> te vi
+[30Jan2025 03:00:11.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> AJDJAJDJAJJSDS
+[30Jan2025 03:00:19.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> LO IBA A MATAR
+[30Jan2025 03:00:31.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=770.40, y=82.00, z=763.50], dimensionLocationPath overworld
+[30Jan2025 03:00:31.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=770.40, y=82.00, z=763.50] in list []
+[30Jan2025 03:00:31.619] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=770.40, y=82.00, z=763.50]
+[30Jan2025 03:01:22.967] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=799.58, y=79.94, z=720.92], dimensionLocationPath overworld
+[30Jan2025 03:01:22.967] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=799.58, y=79.94, z=720.92] in list []
+[30Jan2025 03:01:23.017] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=799.58, y=79.94, z=720.92]
+[30Jan2025 03:01:23.522] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=799.58, y=79.94, z=720.92], dimensionLocationPath overworld
+[30Jan2025 03:01:23.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=799.58, y=79.94, z=720.92] in list []
+[30Jan2025 03:01:23.569] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=799.58, y=79.94, z=720.92]
+[30Jan2025 03:03:04.469] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=822.98, y=83.00, z=736.48], dimensionLocationPath overworld
+[30Jan2025 03:03:04.469] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=822.98, y=83.00, z=736.48] in list []
+[30Jan2025 03:03:04.519] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=822.98, y=83.00, z=736.48]
+[30Jan2025 03:03:37.355] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/51220, l='ServerLevel[world]', x=718.30, y=88.30, z=778.57], dimensionLocationPath overworld
+[30Jan2025 03:03:37.355] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/51220, l='ServerLevel[world]', x=718.30, y=88.30, z=778.57] in list []
+[30Jan2025 03:03:37.968] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=718.44, y=85.00, z=777.60], dimensionLocationPath overworld
+[30Jan2025 03:03:37.968] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=718.44, y=85.00, z=777.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@c814]
+[30Jan2025 03:03:38.005] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/51220, l='ServerLevel[world]', x=718.13, y=87.25, z=777.88, removed=DISCARDED]
+[30Jan2025 03:03:39.720] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=720.11, y=85.00, z=774.79]
+[30Jan2025 03:03:41.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=720.86, y=85.00, z=774.84], dimensionLocationPath overworld
+[30Jan2025 03:03:41.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=720.86, y=85.00, z=774.84] in list []
+[30Jan2025 03:03:41.870] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=720.86, y=85.00, z=774.84]
+[30Jan2025 03:03:54.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=820.23, y=79.00, z=740.81], dimensionLocationPath overworld
+[30Jan2025 03:03:54.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['natsukuunnnn'/28411, l='ServerLevel[world]', x=820.23, y=79.00, z=740.81] in list []
+[30Jan2025 03:04:07.772] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=722.48, y=85.00, z=774.76], dimensionLocationPath overworld
+[30Jan2025 03:04:07.772] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=722.48, y=85.00, z=774.76] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@6efb]
+[30Jan2025 03:04:08.119] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Indisciplinado'/43345, l='ServerLevel[world]', x=722.48, y=85.00, z=774.76]
+[30Jan2025 03:04:29.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 03:04:29.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 03:04:55.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [Ice Bucket Challenge]
