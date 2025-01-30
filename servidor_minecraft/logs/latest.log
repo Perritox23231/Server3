@@ -176,3 +176,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 01:21:53.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! 7.330473001850123,1.9375,6.690139762051899
 [30Jan2025 01:22:18.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado was slain by Husk
 [30Jan2025 01:22:53.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn was slain by Skeleton
+[30Jan2025 01:35:58.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -4.619183861906322,1.1661092609382138,-8.835441189714857

@@ -2420,6 +2420,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:34:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-30 01:16:53 +0000"
