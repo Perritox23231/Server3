@@ -317,3 +317,34 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [30Jan2025 03:14:24.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> fui al neter casi me muero
 [30Jan2025 03:18:47.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado moved too quickly! -5.901842820073739,0.17675927506424216,-8.22350821349437
 [30Jan2025 03:19:33.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn has made the advancement [A Seedy Place]
+[30Jan2025 03:35:35.493] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[30Jan2025 03:37:36.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=815, y=83, z=675} BlockPos{x=813, y=82, z=675}
+[30Jan2025 03:37:36.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=815, y=83, z=675} BlockPos{x=813, y=82, z=675}
+[30Jan2025 03:43:39.473] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/50191, l='ServerLevel[world]', x=633.86, y=72.00, z=923.76] died, message: 'Unemployed was slain by Zombie'
+[30Jan2025 03:44:34.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> ontan?
+[30Jan2025 03:44:43.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> AQUI NOMA
+[30Jan2025 03:44:45.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> EN LA CASA
+[30Jan2025 03:44:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> voy
+[30Jan2025 03:46:20.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> donde
+[30Jan2025 03:46:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> LA GINA SE PERDIO
+[30Jan2025 03:46:32.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> donde se perdio JAJAJA
+[30Jan2025 03:47:06.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> avisame cuando esten en la casa
+[30Jan2025 03:49:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> YA ESTAMOS
+[30Jan2025 03:49:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> voy
+[30Jan2025 03:50:30.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> AYAYAYAYY
+[30Jan2025 03:50:38.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> SUBIO TODIOT
+[30Jan2025 03:50:45.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> SII
+[30Jan2025 03:50:57.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> como se llama en el pack
+[30Jan2025 03:51:00.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> para hacer
+[30Jan2025 03:51:04.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> farmers
+[30Jan2025 03:51:18.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> si quieres ladrillo les doy
+[30Jan2025 03:52:39.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> ingrid voy ya a descansar, dejo el server ON ?
+[30Jan2025 03:52:46.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> sii un toque mas
+[30Jan2025 03:53:01.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> ok ok lo dejo abierto
+[30Jan2025 03:53:47.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gin> Bye nat
+[30Jan2025 03:53:52.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> aiooosss
+[30Jan2025 03:53:57.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gin> byeeee
+[30Jan2025 03:54:01.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gin lost connection: Disconnected
+[30Jan2025 03:54:01.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gin left the game
+[30Jan2025 03:54:05.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Disconnected
+[30Jan2025 03:54:05.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game

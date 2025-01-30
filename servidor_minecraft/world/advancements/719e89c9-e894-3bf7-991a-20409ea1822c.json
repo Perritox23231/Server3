@@ -486,6 +486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-30 03:49:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-01-30 02:10:28 +0000"
@@ -830,7 +836,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:enderman": "2025-01-30 03:10:49 +0000"
+      "minecraft:spider": "2025-01-30 03:44:04 +0000",
+      "minecraft:enderman": "2025-01-30 03:10:49 +0000",
+      "minecraft:zombie": "2025-01-30 03:44:15 +0000"
     },
     "done": false
   },
@@ -1272,6 +1280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-30 03:49:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-30 00:59:34 +0000"
@@ -1482,6 +1496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-30 03:49:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-01-30 02:57:09 +0000"
@@ -1533,6 +1553,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-30 00:48:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-01-30 03:26:24 +0000"
     },
     "done": true
   },
