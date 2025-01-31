@@ -1,137 +1,137 @@
-[31Jan2025 02:39:53.840] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[31Jan2025 02:39:53.844] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[31Jan2025 02:39:54.213] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[31Jan2025 02:39:54.259] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[31Jan2025 02:39:54.557] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[31Jan2025 02:39:54.559] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Jan2025 02:39:54.560] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Jan2025 02:39:54.561] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Jan2025 02:39:54.711] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[31Jan2025 02:39:56.555] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[31Jan2025 02:39:56.594] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
-[31Jan2025 02:39:56.701] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[31Jan2025 02:39:56.704] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[31Jan2025 02:39:57.847] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[31Jan2025 02:39:57.847] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[31Jan2025 02:39:57.848] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[31Jan2025 02:39:57.850] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[31Jan2025 02:39:57.850] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[31Jan2025 02:39:57.850] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[31Jan2025 02:39:57.852] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[31Jan2025 02:39:57.853] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[31Jan2025 02:40:04.667] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[31Jan2025 02:40:04.689] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[31Jan2025 02:40:04.828] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.84.
-[31Jan2025 02:40:04.875] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[31Jan2025 02:40:04.884] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[31Jan2025 02:40:04.885] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
-[31Jan2025 02:40:04.885] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
-[31Jan2025 02:40:04.893] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[31Jan2025 02:40:04.893] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[31Jan2025 02:40:04.906] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[31Jan2025 02:40:04.909] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item
-[31Jan2025 02:40:04.910] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[31Jan2025 02:40:04.910] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[31Jan2025 02:40:04.912] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items
-[31Jan2025 02:40:04.913] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[31Jan2025 02:40:05.620] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[31Jan2025 02:40:05.620] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[31Jan2025 02:40:08.289] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[31Jan2025 02:40:08.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
-[31Jan2025 02:40:08.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[31Jan2025 02:40:08.633] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[31Jan2025 02:40:08.634] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[31Jan2025 02:40:08.634] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[31Jan2025 02:40:08.636] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[31Jan2025 02:40:08.697] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[31Jan2025 02:40:08.697] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[31Jan2025 02:40:08.763] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[31Jan2025 02:40:08.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
-[31Jan2025 02:40:08.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[31Jan2025 02:40:08.787] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[31Jan2025 02:40:08.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[31Jan2025 02:40:08.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[31Jan2025 02:40:08.798] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[31Jan2025 02:40:08.804] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[31Jan2025 02:40:08.809] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[31Jan2025 02:40:08.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[31Jan2025 02:40:08.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[31Jan2025 02:40:09.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.15 Target: 1.20.1-1.0.20
-[31Jan2025 02:40:10.671] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[31Jan2025 02:40:11.966] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
-[31Jan2025 02:40:11.966] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
-[31Jan2025 02:40:14.213] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[31Jan2025 02:40:15.288] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[31Jan2025 02:40:15.428] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2646 advancements
-[31Jan2025 02:40:15.431] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[31Jan2025 02:40:15.438] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[31Jan2025 02:40:15.446] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[31Jan2025 02:40:15.503] [main/INFO] [REI/]: [REI] ****************************************
-[31Jan2025 02:40:15.503] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for START.
-[31Jan2025 02:40:15.506] [main/INFO] [REI/]: [REI] Plugins (2):
-[31Jan2025 02:40:15.506] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[31Jan2025 02:40:15.507] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[31Jan2025 02:40:15.507] [main/INFO] [REI/]: [REI] ****************************************
-[31Jan2025 02:40:15.534] [main/INFO] [REI/]: [REI] ########################################
-[31Jan2025 02:40:15.535] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for START.
-[31Jan2025 02:40:15.536] [main/INFO] [REI/]: [REI] Plugins (2):
-[31Jan2025 02:40:15.536] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[31Jan2025 02:40:15.537] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[31Jan2025 02:40:15.537] [main/INFO] [REI/]: [REI] ########################################
-[31Jan2025 02:40:15.553] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for START in 4.844 ms, totaling 53.49 ms.
-[31Jan2025 02:40:15.559] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for START in 2.068 ms, totaling 13.33 ms.
-[31Jan2025 02:40:15.577] [main/INFO] [REI/]: [REI] ========================================
-[31Jan2025 02:40:15.578] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for END.
-[31Jan2025 02:40:15.581] [main/INFO] [REI/]: [REI] Plugins (2):
-[31Jan2025 02:40:15.582] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[31Jan2025 02:40:15.583] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[31Jan2025 02:40:15.583] [main/INFO] [REI/]: [REI] ========================================
-[31Jan2025 02:40:15.631] [main/INFO] [REI/]: [REI] ****************************************
-[31Jan2025 02:40:15.632] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for END.
-[31Jan2025 02:40:15.633] [main/INFO] [REI/]: [REI] Plugins (2):
-[31Jan2025 02:40:15.633] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[31Jan2025 02:40:15.635] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[31Jan2025 02:40:15.635] [main/INFO] [REI/]: [REI] ****************************************
-[31Jan2025 02:40:15.677] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for END in 5.667 ms, totaling 64.01 ms.
-[31Jan2025 02:40:15.684] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for END in 3.167 ms, totaling 35.51 ms.
-[31Jan2025 02:40:16.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[31Jan2025 02:40:16.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[31Jan2025 02:40:16.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[31Jan2025 02:40:16.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[31Jan2025 02:40:16.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[31Jan2025 02:40:16.952] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[31Jan2025 02:40:17.024] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[31Jan2025 02:40:17.025] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[31Jan2025 02:40:17.025] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[31Jan2025 02:40:17.026] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[31Jan2025 02:40:17.353] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[31Jan2025 02:40:17.353] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[31Jan2025 02:40:17.353] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[31Jan2025 02:40:17.354] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[31Jan2025 02:40:17.354] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[31Jan2025 02:40:17.354] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[31Jan2025 02:40:17.355] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[31Jan2025 02:40:17.355] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[31Jan2025 02:40:17.355] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[31Jan2025 02:40:17.355] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[31Jan2025 02:40:17.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[31Jan2025 02:40:20.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[31Jan2025 02:40:25.096] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.098] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.099] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.100] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.100] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.102] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.103] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.141] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.143] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.297] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Jan2025 02:40:25.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[31Jan2025 02:40:26.348] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6052 ms
-[31Jan2025 02:40:26.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.309s)! For help, type "help"
-[31Jan2025 02:40:26.385] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[31Jan2025 02:40:26.410] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Couldn't load server icon
+[31Jan2025 23:33:58.191] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[31Jan2025 23:33:58.195] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[31Jan2025 23:34:00.513] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[31Jan2025 23:34:00.826] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[31Jan2025 23:34:01.146] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[31Jan2025 23:34:01.148] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[31Jan2025 23:34:01.149] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[31Jan2025 23:34:01.150] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[31Jan2025 23:34:01.366] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[31Jan2025 23:34:03.508] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[31Jan2025 23:34:03.533] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
+[31Jan2025 23:34:03.638] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[31Jan2025 23:34:03.645] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[31Jan2025 23:34:04.926] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[31Jan2025 23:34:04.927] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[31Jan2025 23:34:04.928] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[31Jan2025 23:34:04.929] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[31Jan2025 23:34:04.930] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[31Jan2025 23:34:04.930] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[31Jan2025 23:34:04.941] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[31Jan2025 23:34:04.943] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[31Jan2025 23:34:14.117] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[31Jan2025 23:34:14.142] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[31Jan2025 23:34:14.273] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[31Jan2025 23:34:14.273] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[31Jan2025 23:34:14.280] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.84.
+[31Jan2025 23:34:14.293] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[31Jan2025 23:34:14.293] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[31Jan2025 23:34:14.299] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[31Jan2025 23:34:14.299] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[31Jan2025 23:34:14.311] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[31Jan2025 23:34:14.313] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item
+[31Jan2025 23:34:14.313] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[31Jan2025 23:34:14.314] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[31Jan2025 23:34:14.314] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items
+[31Jan2025 23:34:14.314] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[31Jan2025 23:34:14.987] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[31Jan2025 23:34:14.987] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[31Jan2025 23:34:17.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[31Jan2025 23:34:17.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[31Jan2025 23:34:17.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[31Jan2025 23:34:17.544] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[31Jan2025 23:34:17.545] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[31Jan2025 23:34:17.545] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[31Jan2025 23:34:17.548] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[31Jan2025 23:34:17.610] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[31Jan2025 23:34:17.610] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[31Jan2025 23:34:17.663] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[31Jan2025 23:34:17.682] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
+[31Jan2025 23:34:17.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[31Jan2025 23:34:17.688] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[31Jan2025 23:34:17.694] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[31Jan2025 23:34:17.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[31Jan2025 23:34:17.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[31Jan2025 23:34:17.696] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[31Jan2025 23:34:17.700] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[31Jan2025 23:34:17.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[31Jan2025 23:34:17.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[31Jan2025 23:34:18.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.15 Target: 1.20.1-1.0.20
+[31Jan2025 23:34:20.054] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[31Jan2025 23:34:21.189] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[31Jan2025 23:34:21.189] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[31Jan2025 23:34:23.114] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[31Jan2025 23:34:24.404] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[31Jan2025 23:34:24.519] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2646 advancements
+[31Jan2025 23:34:24.521] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[31Jan2025 23:34:24.528] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[31Jan2025 23:34:24.534] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[31Jan2025 23:34:24.565] [main/INFO] [REI/]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[31Jan2025 23:34:24.565] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for START.
+[31Jan2025 23:34:24.566] [main/INFO] [REI/]: [REI] Plugins (2):
+[31Jan2025 23:34:24.566] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[31Jan2025 23:34:24.566] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[31Jan2025 23:34:24.566] [main/INFO] [REI/]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[31Jan2025 23:34:24.588] [main/INFO] [REI/]: [REI] ########################################
+[31Jan2025 23:34:24.588] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for START.
+[31Jan2025 23:34:24.588] [main/INFO] [REI/]: [REI] Plugins (2):
+[31Jan2025 23:34:24.589] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[31Jan2025 23:34:24.589] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[31Jan2025 23:34:24.589] [main/INFO] [REI/]: [REI] ########################################
+[31Jan2025 23:34:24.599] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for START in 2.629 ms, totaling 38.97 ms.
+[31Jan2025 23:34:24.601] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for START in 1.060 ms, totaling 7.884 ms.
+[31Jan2025 23:34:24.608] [main/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[31Jan2025 23:34:24.608] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for END.
+[31Jan2025 23:34:24.608] [main/INFO] [REI/]: [REI] Plugins (2):
+[31Jan2025 23:34:24.609] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[31Jan2025 23:34:24.609] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[31Jan2025 23:34:24.609] [main/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[31Jan2025 23:34:24.634] [main/INFO] [REI/]: [REI] ########################################
+[31Jan2025 23:34:24.634] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for END.
+[31Jan2025 23:34:24.635] [main/INFO] [REI/]: [REI] Plugins (2):
+[31Jan2025 23:34:24.635] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[31Jan2025 23:34:24.635] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[31Jan2025 23:34:24.635] [main/INFO] [REI/]: [REI] ########################################
+[31Jan2025 23:34:24.647] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for END in 2.751 ms, totaling 31.07 ms.
+[31Jan2025 23:34:24.650] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for END in 1.594 ms, totaling 8.707 ms.
+[31Jan2025 23:34:25.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[31Jan2025 23:34:25.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[31Jan2025 23:34:25.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[31Jan2025 23:34:25.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[31Jan2025 23:34:25.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[31Jan2025 23:34:25.835] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[31Jan2025 23:34:25.934] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[31Jan2025 23:34:25.935] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[31Jan2025 23:34:25.935] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[31Jan2025 23:34:25.935] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[31Jan2025 23:34:26.151] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[31Jan2025 23:34:26.152] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[31Jan2025 23:34:26.152] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[31Jan2025 23:34:26.153] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[31Jan2025 23:34:26.154] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[31Jan2025 23:34:26.161] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[31Jan2025 23:34:26.162] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[31Jan2025 23:34:26.162] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[31Jan2025 23:34:26.163] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[31Jan2025 23:34:26.163] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[31Jan2025 23:34:26.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[31Jan2025 23:34:29.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[31Jan2025 23:34:32.655] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:32.689] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:32.703] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:32.715] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:32.722] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:32.730] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:32.743] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:32.757] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:33.155] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:33.641] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:34.139] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jan2025 23:34:34.639] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[31Jan2025 23:34:34.988] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5850 ms
+[31Jan2025 23:34:34.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.040s)! For help, type "help"
+[31Jan2025 23:34:35.025] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[31Jan2025 23:34:35.100] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Couldn't load server icon
 java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "bufferedimage" is null
 	at net.minecraft.server.MinecraftServer.m_271593_(MinecraftServer.java:784) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
 	at java.util.Optional.flatMap(Optional.java:289) ~[?:?]
@@ -139,38 +139,11 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:640) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[31Jan2025 02:40:52.992] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f6046b1[id=<null>,name=natsukuunnnn,properties={},legacy=false] (/127.95.195.61:57839) lost connection: Disconnected
-[31Jan2025 02:40:58.046] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[31Jan2025 02:40:58.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natsukuunnnn[/127.95.195.61:57669] logged in with entity id 156 at (542.9606914043924, -1.0, 742.4440372626773)
-[31Jan2025 02:40:58.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn joined the game
-[31Jan2025 02:40:58.288] [Server thread/INFO] [Jade/]: Syncing config to natsukuunnnn (35ec3435-d61b-398c-9847-7c003447c444)
-[31Jan2025 02:41:01.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
-[31Jan2025 02:41:19.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wakkeywakey[/127.28.108.156:52663] logged in with entity id 429 at (820.0902910147839, 83.0, 641.8994603616401)
-[31Jan2025 02:41:19.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey joined the game
-[31Jan2025 02:41:19.614] [Server thread/INFO] [Jade/]: Syncing config to wakkeywakey (784f8b68-d963-3f6d-884e-39520ba9efc5)
-[31Jan2025 02:41:32.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.18.57.57:50283] logged in with entity id 624 at (722.0932541529928, 80.25220334025373, 666.7029386827168)
-[31Jan2025 02:41:32.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
-[31Jan2025 02:41:32.649] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
-[31Jan2025 02:41:39.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> se te fue el net jp?
-[31Jan2025 02:43:51.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> donde haras tu casa
-[31Jan2025 02:44:04.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wakkeywakey> no se todavia
-[31Jan2025 02:44:34.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> creo k aqui estara la de mario
-[31Jan2025 02:44:39.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> puede ser al frente
-[31Jan2025 02:45:27.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wakkeywakey> por aca capaz
-[31Jan2025 02:45:30.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> si
-[31Jan2025 02:45:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey has made the advancement [Diamonds!]
-[31Jan2025 02:45:53.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=756, y=82, z=599} BlockPos{x=756, y=80, z=597}
-[31Jan2025 02:45:53.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=756, y=82, z=599} BlockPos{x=756, y=80, z=597}
-[31Jan2025 02:45:56.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=755, y=80, z=594} BlockPos{x=754, y=80, z=595}
-[31Jan2025 02:49:19.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey has made the advancement [Acquire Hardware]
-[31Jan2025 02:50:03.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> para gina
-[31Jan2025 02:50:40.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey has made the advancement [Isn't It Iron Pick]
-[31Jan2025 02:52:45.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Fishy Business]
-[31Jan2025 02:54:33.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Timed out
-[31Jan2025 02:54:33.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
-[31Jan2025 02:54:34.019] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[31Jan2025 02:54:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey has made the advancement [Suit Up]
-[31Jan2025 02:55:04.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wakkeywakey lost connection: Disconnected
-[31Jan2025 02:55:04.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey left the game
-[31Jan2025 02:59:35.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natsukuunnnn lost connection: Disconnected
-[31Jan2025 02:59:35.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn left the game
+[31Jan2025 23:36:17.085] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[31Jan2025 23:36:17.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natsukuunnnn[/127.95.195.61:36213] logged in with entity id 153 at (822.5, 83.5, 716.5)
+[31Jan2025 23:36:17.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn joined the game
+[31Jan2025 23:36:17.319] [Server thread/INFO] [Jade/]: Syncing config to natsukuunnnn (35ec3435-d61b-398c-9847-7c003447c444)
+[31Jan2025 23:36:20.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3714ms or 74 ticks behind
+[31Jan2025 23:37:05.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Indisciplinado[/127.180.173.131:49649] logged in with entity id 427 at (727.7203329586843, 66.0, 755.4511146624791)
+[31Jan2025 23:37:05.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado joined the game
+[31Jan2025 23:37:05.442] [Server thread/INFO] [Jade/]: Syncing config to Indisciplinado (72316504-6101-36c7-b9a6-a5d7a6cc1673)
