@@ -61,3 +61,13 @@
 [01Feb2025 01:33:05.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1313, y=51, z=1360} BlockPos{x=1313, y=50, z=1360}
 [01Feb2025 01:41:44.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/42624, l='ServerLevel[world]', x=1036.58, y=91.00, z=1000.52] died, message: 'Unemployed suffocated in a wall'
 [01Feb2025 01:46:01.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [The Parrots and the Bats]
+[01Feb2025 01:55:39.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado drowned
+[01Feb2025 01:55:57.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natsukuunnnn lost connection: Disconnected
+[01Feb2025 01:55:57.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsukuunnnn left the game
+[01Feb2025 01:57:20.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Feb2025 01:57:20.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[01Feb2025 01:57:23.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Indisciplinado lost connection: Disconnected
+[01Feb2025 01:57:23.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado left the game
+[01Feb2025 01:58:53.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wakkeywakey[/127.137.194.163:37273] logged in with entity id 47572 at (1060.6671929809763, -52.0, 74.30000001192093)
+[01Feb2025 01:58:53.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey joined the game
+[01Feb2025 01:58:53.751] [Server thread/INFO] [Jade/]: Syncing config to wakkeywakey (784f8b68-d963-3f6d-884e-39520ba9efc5)
