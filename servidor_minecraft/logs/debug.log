@@ -2827,3 +2827,13 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [31Jan2025 23:52:42.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/6069, l='ServerLevel[world]', x=815.66, y=80.46, z=759.48], dimensionLocationPath overworld
 [31Jan2025 23:52:42.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/6069, l='ServerLevel[world]', x=815.66, y=80.46, z=759.48] in list []
 [31Jan2025 23:52:43.227] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/6069, l='ServerLevel[world]', x=815.08, y=80.00, z=760.33, removed=DISCARDED]
+[31Jan2025 23:54:38.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 23:54:38.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 23:57:02.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> zz ?
+[31Jan2025 23:57:11.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> si
+[31Jan2025 23:59:38.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 23:59:38.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 23:59:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> }
+[31Jan2025 23:59:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> k
+[01Feb2025 00:00:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> nd
+[01Feb2025 00:01:20.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=849, y=88, z=743} BlockPos{x=848, y=88, z=742}
