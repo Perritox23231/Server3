@@ -19,10 +19,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-01 01:29:18 +0000",
       "minecraft:cherry_grove": "2025-01-29 16:42:08 +0000",
       "minecraft:sunflower_plains": "2025-01-30 20:34:49 +0000",
       "minecraft:beach": "2025-01-30 05:58:27 +0000",
       "minecraft:river": "2025-01-29 16:33:01 +0000",
+      "minecraft:jagged_peaks": "2025-02-01 01:29:24 +0000",
       "minecraft:cold_ocean": "2025-02-01 01:14:11 +0000",
       "minecraft:forest": "2025-01-29 23:44:13 +0000",
       "minecraft:ocean": "2025-02-01 01:12:32 +0000",
@@ -4050,6 +4052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-01 01:35:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-02-01 00:26:50 +0000"
@@ -4094,9 +4102,34 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cat": "2025-02-01 00:55:24 +0000"
+      "minecraft:cat": "2025-02-01 00:55:24 +0000",
+      "minecraft:chicken": "2025-02-01 01:49:32 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-01 01:41:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-01 01:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-01 01:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-01 01:35:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
