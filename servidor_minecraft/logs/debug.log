@@ -5021,3 +5021,14 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01Feb2025 02:01:14.534] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['wakkeywakey'/47572, l='ServerLevel[world]', x=995.97, y=-51.00, z=51.41] in list []
 [01Feb2025 02:05:01.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Feb2025 02:05:01.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 02:10:01.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:10:01.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 02:14:05.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey has made the advancement [Flexible Schedule]
+[01Feb2025 02:14:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey was shot by Skeleton
+[01Feb2025 02:14:13.341] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['wakkeywakey'/47572, l='ServerLevel[world]', x=919.48, y=-48.00, z=27.73]
+[01Feb2025 02:14:23.789] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['wakkeywakey'/47572, l='ServerLevel[world]', x=919.36, y=-47.42, z=26.79], dimensionLocationPath overworld
+[01Feb2025 02:14:23.790] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['wakkeywakey'/47572, l='ServerLevel[world]', x=919.36, y=-47.42, z=26.79] in list []
+[01Feb2025 02:14:58.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wakkeywakey was slain by Murmur
+[01Feb2025 02:14:58.644] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['wakkeywakey'/47572, l='ServerLevel[world]', x=939.70, y=-40.00, z=-21.70]
+[01Feb2025 02:15:01.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:15:01.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
