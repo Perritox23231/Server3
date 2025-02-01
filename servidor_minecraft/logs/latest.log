@@ -40,3 +40,15 @@
 [01Feb2025 01:01:23.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> JAJAAJA
 [01Feb2025 01:01:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Indisciplinado> discord ?
 [01Feb2025 01:01:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natsukuunnnn> si estoy
+[01Feb2025 01:15:28.753] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[01Feb2025 01:15:28.755] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[01Feb2025 01:15:28.755] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[01Feb2025 01:15:30.569] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[01Feb2025 01:15:30.570] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[01Feb2025 01:15:30.570] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[01Feb2025 01:15:30.570] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[01Feb2025 01:15:33.404] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[01Feb2025 01:15:33.405] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[01Feb2025 01:22:39.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has completed the challenge [It Spreads]
+[01Feb2025 01:24:31.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Sculk Cymbal]
+[01Feb2025 01:25:04.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Indisciplinado has made the advancement [Sneak 100]

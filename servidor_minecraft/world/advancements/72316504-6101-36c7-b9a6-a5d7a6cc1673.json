@@ -9,7 +9,10 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-01-29 16:42:27 +0000",
       "minecraft:river": "2025-01-29 15:48:34 +0000",
+      "minecraft:cold_ocean": "2025-02-01 01:14:11 +0000",
       "minecraft:forest": "2025-01-30 01:14:09 +0000",
+      "minecraft:ocean": "2025-02-01 01:12:32 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-01 01:10:30 +0000",
       "minecraft:deep_dark": "2025-01-30 16:02:18 +0000",
       "minecraft:meadow": "2025-01-30 02:13:21 +0000",
       "minecraft:plains": "2025-01-27 18:04:26 +0000"
@@ -1765,7 +1768,8 @@
       "minecraft:wither_skeleton": "2025-01-30 22:44:02 +0000",
       "minecraft:husk": "2025-01-30 01:18:32 +0000",
       "minecraft:piglin": "2025-01-30 22:30:10 +0000",
-      "minecraft:zombie": "2025-01-29 17:44:50 +0000"
+      "minecraft:zombie": "2025-01-29 17:44:50 +0000",
+      "minecraft:drowned": "2025-02-01 01:08:13 +0000"
     },
     "done": false
   },
@@ -4266,9 +4270,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-01 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-01 01:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-01 01:13:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-02-01 00:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-01 01:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-01 01:22:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-02-01 01:24:31 +0000"
     },
     "done": true
   },

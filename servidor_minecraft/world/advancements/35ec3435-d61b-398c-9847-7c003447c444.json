@@ -23,7 +23,10 @@
       "minecraft:sunflower_plains": "2025-01-30 20:34:49 +0000",
       "minecraft:beach": "2025-01-30 05:58:27 +0000",
       "minecraft:river": "2025-01-29 16:33:01 +0000",
+      "minecraft:cold_ocean": "2025-02-01 01:14:11 +0000",
       "minecraft:forest": "2025-01-29 23:44:13 +0000",
+      "minecraft:ocean": "2025-02-01 01:12:32 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-01 01:10:13 +0000",
       "minecraft:deep_dark": "2025-01-30 21:17:13 +0000",
       "minecraft:meadow": "2025-01-30 05:49:18 +0000",
       "minecraft:plains": "2025-01-29 16:03:22 +0000"
@@ -4035,6 +4038,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-01 01:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-01 01:13:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-02-01 00:26:50 +0000"
@@ -4062,6 +4077,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-02-01 00:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-01 01:13:45 +0000"
     },
     "done": true
   },
